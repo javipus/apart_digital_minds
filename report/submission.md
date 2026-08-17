@@ -57,13 +57,13 @@ The original paper used a heteroskedastic Thurstonian model: it gives every task
 
 We compare utility vectors using Pearson correlation. This uses the full BT scores, so it captures whether two conditions agree about both the order of the tasks and how far apart they are.
 
-For prediction, we set aside one of the ten responses for every task pair and fit BT scores using the other nine. Within a condition, consequential scores predict the omitted consequential response. To test transfer, scores fitted to nine stated responses predict the corresponding consequential response. If tasks i and j receive scores u_i and u_j, the predicted probability of choosing i is logistic(u_i - u_j). We repeat this process until every response has been predicted once; no response is used to fit the scores that predict it.
+We also test how well stated preferences predict choices in the consequentially framed conditions. We fit BT scores to nine of the ten stated responses for every task pair, then use those scores to predict the consequential response with the same option order and repetition number. We compare this predictive power with ten-fold within-condition cross-validation. For that comparison, we hold out one consequential response per task pair, fit BT scores to the other nine responses in the same condition, and predict the omitted choice using P(i beats j) = logistic(u_i - u_j). We repeat this process ten times so that every consequential response is predicted once.
 
 We use three prediction metrics:
 
-- **Hard accuracy** asks the BT model to pick whichever task it puts above 50%, then counts how often that pick matches the held-out choice; 50% is chance and 100% means every choice was right.
-- **Mean probability assigned to the observed choice**, N^-1 sum p_i, keeps the model's confidence instead of turning it into a yes/no prediction; 50% means it gave the two tasks equal weight.
-- **Normalized log score**, N^-1 sum log2(2p_i), also uses confidence but punishes confident mistakes much more strongly; zero is the score for assigning 50% to every choice, one is perfect, and negative values mean the predictions were worse than staying at 50%.
+1. **Hard accuracy** asks the BT model to pick whichever task it puts above 50%, then counts how often that pick matches the held-out choice; 50% is chance and 100% means every choice was right.
+2. **Mean probability assigned to the observed choice**, N^-1 sum p_i, keeps the model's confidence instead of turning it into a yes/no prediction; 50% means it gave the two tasks equal weight.
+3. **Normalized log score**, N^-1 sum log2(2p_i), also uses confidence but punishes confident mistakes much more strongly; zero is the score for assigning 50% to every choice, one is perfect, and negative values mean the predictions were worse than staying at 50%.
 
 To measure pair-level consistency without assuming global coherence, we estimate each pair's choice probability p using Laplace's rule, (wins + 1)/(n + 2), and define preference strength as max(p, 1 - p). Under our position-only null, task identity has no effect: each response chooses the first displayed option at the condition's overall rate, with the observed sample counts and balanced order. Because p comes from only ten responses and preference strength takes a maximum, finite-sample noise raises expected null preference strength to .59-.60. A model that always chose the first option would instead yield .50 because each task is displayed first exactly five times.
 
