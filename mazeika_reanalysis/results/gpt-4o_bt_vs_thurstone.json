@@ -1,0 +1,31 @@
+{
+  "model": "gpt-4o",
+  "data_source": "https://huggingface.co/mmazeika/emergent-values-data/resolve/main/options_hierarchical.zip",
+  "archive": "data/external/options_hierarchical.zip",
+  "n_options": 510,
+  "n_individual_training_responses": 190200,
+  "observed_training_edges": 9510,
+  "observed_holdout_edges": 1000,
+  "pseudolabeled_training_edges_excluded": 75448,
+  "fit": {
+    "converged": true,
+    "iterations": 19,
+    "negative_log_likelihood": 107550.69096320658,
+    "max_absolute_gradient": 5.605371697117961e-09,
+    "l2_penalty": 1e-06
+  },
+  "comparison": {
+    "intercept": 2.028133829809934e-17,
+    "slope": 0.981020558971063,
+    "pearson_r": 0.981020558971063,
+    "r_squared": 0.9624013371238969
+  },
+  "published_thurstonian_holdout_metrics": {
+    "log_loss": 0.3269589080667237,
+    "accuracy": 0.92
+  },
+  "outputs": {
+    "scores_csv": "results/gpt-4o_bt_vs_thurstone.csv",
+    "scatter_plot": "results/gpt-4o_bt_vs_thurstone.png"
+  }
+}

@@ -1,0 +1,12 @@
+# Downloaded source data (117 MiB compressed, approximately 1.3 GiB expanded).
+**/data/external/
+
+# Python cache files.
+__pycache__/
+*.py[cod]
+
+# Local rendering and analysis scratch files.
+tmp/
+
+# Local API credentials. Commit .env.example, never .env.
+**/.env

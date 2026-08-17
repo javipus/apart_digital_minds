@@ -1,0 +1,115 @@
+{
+  "load": {
+    "raw_successful_requests": 21060,
+    "stated_choices": 7020,
+    "successful_consequential_labels": 14039,
+    "missing_label_count_before_parser_fallback": 1,
+    "source_parser_fallback_count": 1,
+    "source_parser_fallback_request_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "unresolved_missing_label_count": 0,
+    "unresolved_missing_source_request_ids": [],
+    "failed_label_source_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "physical_label_records": 14042
+  },
+  "fits": {
+    "stated": {
+      "converged": true,
+      "iterations": 9,
+      "negative_log_likelihood": 900.6097941253649,
+      "max_absolute_gradient": 6.2784104435487534e-06,
+      "l2_penalty": 1e-06,
+      "total_records": 3510,
+      "included_records": 3510,
+      "unclear_records": 0,
+      "unclear_rate": 0.0,
+      "observed_pair_count": 351,
+      "possible_pair_count": 351,
+      "connected_components": 1
+    },
+    "consequential_tokens": {
+      "converged": true,
+      "iterations": 7,
+      "negative_log_likelihood": 1638.5555133402381,
+      "max_absolute_gradient": 8.30843846937329e-08,
+      "l2_penalty": 1e-06,
+      "total_records": 3510,
+      "included_records": 3505,
+      "unclear_records": 5,
+      "unclear_rate": 0.0014245014245014246,
+      "observed_pair_count": 351,
+      "possible_pair_count": 351,
+      "connected_components": 1
+    },
+    "consequential_time": {
+      "converged": true,
+      "iterations": 7,
+      "negative_log_likelihood": 1803.7664867192784,
+      "max_absolute_gradient": 9.101230431602313e-09,
+      "l2_penalty": 1e-06,
+      "total_records": 3510,
+      "included_records": 3505,
+      "unclear_records": 5,
+      "unclear_rate": 0.0014245014245014246,
+      "observed_pair_count": 351,
+      "possible_pair_count": 351,
+      "connected_components": 1
+    }
+  },
+  "summaries": {
+    "stated": {
+      "n_pairs": 351,
+      "mean": 0.8875289992973916,
+      "median": 0.9629716245768677,
+      "quantiles": {
+        "p10": 0.6504493623299017,
+        "p25": 0.829776442940686,
+        "p75": 0.9953465510684834,
+        "p90": 0.9996443923177777
+      },
+      "fraction_at_least": {
+        "0.60": 0.9230769230769231,
+        "two_to_one_odds_0.6667": 0.8888888888888888,
+        "three_to_one_odds_0.75": 0.811965811965812,
+        "0.90": 0.6267806267806267
+      }
+    },
+    "consequential_tokens": {
+      "n_pairs": 351,
+      "mean": 0.7680512082772372,
+      "median": 0.7717525468963181,
+      "quantiles": {
+        "p10": 0.5558895733073083,
+        "p25": 0.6262520323241841,
+        "p75": 0.9192632641705488,
+        "p90": 0.9640222964979084
+      },
+      "fraction_at_least": {
+        "0.60": 0.8034188034188035,
+        "two_to_one_odds_0.6667": 0.6752136752136753,
+        "three_to_one_odds_0.75": 0.5356125356125356,
+        "0.90": 0.29914529914529914
+      }
+    },
+    "consequential_time": {
+      "n_pairs": 351,
+      "mean": 0.734696256784189,
+      "median": 0.7259845933676506,
+      "quantiles": {
+        "p10": 0.5331219267234357,
+        "p25": 0.6033641961938161,
+        "p75": 0.8621739266018856,
+        "p90": 0.9511507714527191
+      },
+      "fraction_at_least": {
+        "0.60": 0.7578347578347578,
+        "two_to_one_odds_0.6667": 0.6182336182336182,
+        "three_to_one_odds_0.75": 0.43874643874643876,
+        "0.90": 0.2022792022792023
+      }
+    }
+  }
+}

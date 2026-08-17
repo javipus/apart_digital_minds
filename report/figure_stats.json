@@ -1,0 +1,209 @@
+{
+  "definitions": {
+    "correlation_interval": "95% stratified response-bootstrap interval with BT refitting",
+    "accuracy_interval": "95% nonparametric bootstrap interval resampling the 351 task pairs",
+    "strength_interval": "95% nonparametric bootstrap interval resampling the 351 task pairs",
+    "bootstrap_replicates": 10000,
+    "seed": 20260817
+  },
+  "models": {
+    "4o-mini": {
+      "pearson": {
+        "stated__consequential_tokens": {
+          "point": 0.4632569414005377,
+          "lower": 0.42430042204343765,
+          "upper": 0.5758804428508227
+        },
+        "stated__consequential_time": {
+          "point": 0.527381846166344,
+          "lower": 0.48932404704462285,
+          "upper": 0.6496719017486793
+        },
+        "consequential_tokens__consequential_time": {
+          "point": 0.9142088840076044,
+          "lower": 0.8893191217050288,
+          "upper": 0.9272201233859322
+        }
+      },
+      "hard_accuracy": {
+        "stated__consequential_tokens": {
+          "point": 0.6149786019971469,
+          "lower": 0.5829526414238195,
+          "upper": 0.6464712844387167,
+          "n_pairs": 351,
+          "n_choices": 3505
+        },
+        "consequential_tokens__consequential_tokens": {
+          "point": 0.7306704707560627,
+          "lower": 0.7037405862583391,
+          "upper": 0.7568549620028716,
+          "n_pairs": 351,
+          "n_choices": 3505
+        },
+        "stated__consequential_time": {
+          "point": 0.5998573466476462,
+          "lower": 0.5693478319779228,
+          "upper": 0.6294930934666086,
+          "n_pairs": 351,
+          "n_choices": 3505
+        },
+        "consequential_time__consequential_time": {
+          "point": 0.6930099857346648,
+          "lower": 0.6644780945861363,
+          "upper": 0.7211769668059614,
+          "n_pairs": 351,
+          "n_choices": 3505
+        }
+      },
+      "preference_strength": {
+        "consequential_time": {
+          "point": 0.6991280324613658,
+          "lower": 0.6821413925580593,
+          "upper": 0.7161146723646725
+        },
+        "consequential_tokens": {
+          "point": 0.7177544677544678,
+          "lower": 0.6995591599758267,
+          "upper": 0.735388608305275
+        },
+        "stated": {
+          "point": 0.8304843304843305,
+          "lower": 0.8145773979107315,
+          "upper": 0.8456790123456791
+        }
+      }
+    },
+    "Luna": {
+      "pearson": {
+        "stated__consequential_tokens": {
+          "point": 0.6710179789317764,
+          "lower": 0.6203103679626985,
+          "upper": 0.6981428593103693
+        },
+        "stated__consequential_time": {
+          "point": 0.510788467313959,
+          "lower": 0.42608391883913155,
+          "upper": 0.5311173650927768
+        },
+        "consequential_tokens__consequential_time": {
+          "point": 0.902322795990951,
+          "lower": 0.7610883026231348,
+          "upper": 0.9138546119494938
+        }
+      },
+      "hard_accuracy": {
+        "stated__consequential_tokens": {
+          "point": 0.7015669515669516,
+          "lower": 0.6621082621082621,
+          "upper": 0.7396011396011396,
+          "n_pairs": 351,
+          "n_choices": 3510
+        },
+        "consequential_tokens__consequential_tokens": {
+          "point": 0.8542735042735042,
+          "lower": 0.8290598290598291,
+          "upper": 0.8792022792022792,
+          "n_pairs": 351,
+          "n_choices": 3510
+        },
+        "stated__consequential_time": {
+          "point": 0.6636752136752136,
+          "lower": 0.621937321937322,
+          "upper": 0.7051282051282052,
+          "n_pairs": 351,
+          "n_choices": 3510
+        },
+        "consequential_time__consequential_time": {
+          "point": 0.8823361823361824,
+          "lower": 0.8601139601139601,
+          "upper": 0.9028490028490028,
+          "n_pairs": 351,
+          "n_choices": 3510
+        }
+      },
+      "preference_strength": {
+        "consequential_time": {
+          "point": 0.8354700854700855,
+          "lower": 0.8209876543209877,
+          "upper": 0.8492402659069327
+        },
+        "consequential_tokens": {
+          "point": 0.8271604938271606,
+          "lower": 0.8131528964862299,
+          "upper": 0.8409306742640077
+        },
+        "stated": {
+          "point": 0.8397435897435899,
+          "lower": 0.8250237416904085,
+          "upper": 0.853988603988604
+        }
+      }
+    },
+    "Terra": {
+      "pearson": {
+        "stated__consequential_tokens": {
+          "point": 0.691077365660944,
+          "lower": 0.6581957962845439,
+          "upper": 0.8044091866114155
+        },
+        "stated__consequential_time": {
+          "point": 0.47268951283157046,
+          "lower": 0.44057983704791187,
+          "upper": 0.5206813369959752
+        },
+        "consequential_tokens__consequential_time": {
+          "point": 0.9120177510093163,
+          "lower": 0.8076025990742273,
+          "upper": 0.9242708105869194
+        }
+      },
+      "hard_accuracy": {
+        "stated__consequential_tokens": {
+          "point": 0.6624394414363066,
+          "lower": 0.6184435575826682,
+          "upper": 0.7048433048433048,
+          "n_pairs": 351,
+          "n_choices": 3509
+        },
+        "consequential_tokens__consequential_tokens": {
+          "point": 0.8867198632088914,
+          "lower": 0.8634153823001128,
+          "upper": 0.9082621082621083,
+          "n_pairs": 351,
+          "n_choices": 3509
+        },
+        "stated__consequential_time": {
+          "point": 0.587037037037037,
+          "lower": 0.5421616809116809,
+          "upper": 0.6321937321937322,
+          "n_pairs": 351,
+          "n_choices": 3510
+        },
+        "consequential_time__consequential_time": {
+          "point": 0.8934472934472935,
+          "lower": 0.8713675213675214,
+          "upper": 0.9145299145299145,
+          "n_pairs": 351,
+          "n_choices": 3510
+        }
+      },
+      "preference_strength": {
+        "consequential_time": {
+          "point": 0.8473409306742639,
+          "lower": 0.8333333333333334,
+          "upper": 0.8603988603988604
+        },
+        "consequential_tokens": {
+          "point": 0.8432832599499266,
+          "lower": 0.8288008288008288,
+          "upper": 0.8566001899335233
+        },
+        "stated": {
+          "point": 0.8573124406457742,
+          "lower": 0.8437796771130105,
+          "upper": 0.8703703703703703
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+training_condition,test_condition,relationship,n_test_choices,mean_probability_correct,hard_accuracy,mean_log_score_bits,log_score_bits_above_chance
+consequential_tokens,consequential_tokens,within_condition_baseline,3505,0.6774643724063055,0.7306704707560627,-0.7217503770475115,0.27824962295248845
+consequential_time,consequential_tokens,cross_condition_transfer,3505,0.6418786978440673,0.6932952924393724,-0.7858718649227644,0.2141281350772356
+consequential_tokens,consequential_time,cross_condition_transfer,3505,0.642390938306281,0.6778887303851641,-0.8656952771818627,0.13430472281813732
+consequential_time,consequential_time,within_condition_baseline,3505,0.6408051881194561,0.6930099857346648,-0.7942259205277388,0.20577407947226123

@@ -1,0 +1,240 @@
+{
+  "definition": {
+    "canonical_a": "The lower outcome ID, held fixed across the two display orders.",
+    "laplace_probability": "(canonical A wins + 1) / (binary choices + 2)",
+    "strength": "max(P(canonical A), 1 - P(canonical A))"
+  },
+  "load": {
+    "raw_successful_requests": 10530,
+    "stated_choices": 3510,
+    "successful_consequential_labels": 7020,
+    "missing_label_count_before_parser_fallback": 0,
+    "source_parser_fallback_count": 0,
+    "source_parser_fallback_request_ids": [],
+    "unresolved_missing_label_count": 0,
+    "unresolved_missing_source_request_ids": [],
+    "failed_label_source_ids": [],
+    "physical_label_records": 7020
+  },
+  "summaries": {
+    "stated": {
+      "canonical_probability": {
+        "n_pairs": 351,
+        "mean": 0.43898385565052234,
+        "median": 0.3333333333333333,
+        "p10": 0.08333333333333333,
+        "p25": 0.08333333333333333,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666
+      },
+      "preference_strength": {
+        "n_pairs": 351,
+        "mean": 0.8397435897435899,
+        "median": 0.9166666666666666,
+        "p10": 0.5833333333333333,
+        "p25": 0.8333333333333334,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666,
+        "fraction_at_least_2_to_1": 0.8518518518518519,
+        "fraction_at_least_3_to_1": 0.8148148148148148,
+        "histogram_5pp_bins_from_0.50": [
+          30,
+          22,
+          0,
+          13,
+          0,
+          14,
+          19,
+          0,
+          253,
+          0
+        ]
+      },
+      "displayed_a_raw_choice_rate": 0.5809116809116809,
+      "pair_sample_sizes": {
+        "10": 351
+      },
+      "first_item_only_null": {
+        "expected_probability_histogram_10pp_bins": [
+          0.3001825512407173,
+          3.163269628505392,
+          14.834498870741886,
+          40.75446403483214,
+          72.61531749743192,
+          160.27985233192803,
+          40.75446403483214,
+          14.834498870741886,
+          3.163269628505392,
+          0.3001825512407173
+        ],
+        "expected_strength_histogram_5pp_bins_from_0.50": [
+          87.66453483449448,
+          145.23063499486372,
+          0.0,
+          81.50892806966573,
+          0.0,
+          29.668997741483366,
+          6.32653925701082,
+          0.0,
+          0.600365102481436,
+          0.0
+        ],
+        "expected_mean_strength": 0.6010359608022606,
+        "expected_fraction_at_least_2_to_1": 0.33648099763715855,
+        "expected_fraction_at_least_3_to_1": 0.10426182934750665
+      },
+      "position_only_parametric_bootstrap": {
+        "statistic": "mean Laplace-smoothed folded pairwise probability",
+        "replicates": 200000,
+        "seed": 20260816,
+        "upper_tail_p_value": 4.9999750001249995e-06
+      }
+    },
+    "consequential_tokens": {
+      "canonical_probability": {
+        "n_pairs": 351,
+        "mean": 0.4691358024691358,
+        "median": 0.4166666666666667,
+        "p10": 0.08333333333333333,
+        "p25": 0.08333333333333333,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666
+      },
+      "preference_strength": {
+        "n_pairs": 351,
+        "mean": 0.8271604938271606,
+        "median": 0.9166666666666666,
+        "p10": 0.5833333333333334,
+        "p25": 0.75,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666,
+        "fraction_at_least_2_to_1": 0.8461538461538461,
+        "fraction_at_least_3_to_1": 0.7777777777777778,
+        "histogram_5pp_bins_from_0.50": [
+          15,
+          39,
+          0,
+          24,
+          0,
+          21,
+          32,
+          0,
+          220,
+          0
+        ]
+      },
+      "displayed_a_raw_choice_rate": 0.5065527065527066,
+      "pair_sample_sizes": {
+        "10": 351
+      },
+      "first_item_only_null": {
+        "expected_probability_histogram_10pp_bins": [
+          0.34247917873166506,
+          3.425968418074127,
+          15.42097770597039,
+          41.13045681203435,
+          71.98654311529862,
+          158.37369265508536,
+          41.13045681203435,
+          15.42097770597039,
+          3.425968418074127,
+          0.34247917873166506
+        ],
+        "expected_strength_histogram_5pp_bins_from_0.50": [
+          86.38714953978493,
+          143.9730862305989,
+          0.0,
+          82.26091362407043,
+          0.0,
+          30.84195541194034,
+          6.851936836148039,
+          0.0,
+          0.6849583574633402,
+          0.0
+        ],
+        "expected_mean_strength": 0.6025292779787023,
+        "expected_fraction_at_least_2_to_1": 0.34370303199322316,
+        "expected_fraction_at_least_3_to_1": 0.10934145471667353
+      },
+      "position_only_parametric_bootstrap": {
+        "statistic": "mean Laplace-smoothed folded pairwise probability",
+        "replicates": 200000,
+        "seed": 20260816,
+        "upper_tail_p_value": 4.9999750001249995e-06
+      }
+    },
+    "consequential_time": {
+      "canonical_probability": {
+        "n_pairs": 351,
+        "mean": 0.45227920227920226,
+        "median": 0.4166666666666667,
+        "p10": 0.08333333333333333,
+        "p25": 0.08333333333333333,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666
+      },
+      "preference_strength": {
+        "n_pairs": 351,
+        "mean": 0.8354700854700855,
+        "median": 0.9166666666666666,
+        "p10": 0.5833333333333333,
+        "p25": 0.8333333333333334,
+        "p75": 0.9166666666666666,
+        "p90": 0.9166666666666666,
+        "fraction_at_least_2_to_1": 0.8632478632478633,
+        "fraction_at_least_3_to_1": 0.8290598290598291,
+        "histogram_5pp_bins_from_0.50": [
+          28,
+          20,
+          0,
+          12,
+          0,
+          25,
+          36,
+          0,
+          230,
+          0
+        ]
+      },
+      "displayed_a_raw_choice_rate": 0.5068376068376068,
+      "pair_sample_sizes": {
+        "10": 351
+      },
+      "first_item_only_null": {
+        "expected_probability_histogram_10pp_bins": [
+          0.34245304453621744,
+          3.425811537880018,
+          15.420637661263141,
+          41.13024743822312,
+          71.98690929420152,
+          158.3747913419906,
+          41.13024743822312,
+          15.420637661263141,
+          3.425811537880018,
+          0.34245304453621744
+        ],
+        "expected_strength_histogram_5pp_bins_from_0.50": [
+          86.38788204779414,
+          143.97381858839998,
+          0.0,
+          82.26049487644565,
+          0.0,
+          30.841275322527473,
+          6.851623075760128,
+          0.0,
+          0.6849060890724298,
+          0.0
+        ],
+        "expected_mean_strength": 0.6025284086080718,
+        "expected_fraction_at_least_2_to_1": 0.34369885858632165,
+        "expected_fraction_at_least_3_to_1": 0.10933847432296463
+      },
+      "position_only_parametric_bootstrap": {
+        "statistic": "mean Laplace-smoothed folded pairwise probability",
+        "replicates": 200000,
+        "seed": 20260816,
+        "upper_tail_p_value": 4.9999750001249995e-06
+      }
+    }
+  }
+}

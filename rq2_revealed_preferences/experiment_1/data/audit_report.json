@@ -1,0 +1,94 @@
+{
+  "complete_and_valid": true,
+  "storage_complete_and_valid": true,
+  "raw_path": "/Users/javierprieto/projects/apart_digital_minds/rq2_revealed_preferences/experiment_1/data/raw_responses.jsonl",
+  "expected_manifest_requests": 21060,
+  "physical_lines": 21060,
+  "blank_lines": 0,
+  "valid_records": 21060,
+  "unique_request_ids": 21060,
+  "successful_unique_request_ids": 21060,
+  "status_counts": {
+    "ok": 21060
+  },
+  "duplicate_request_ids": {},
+  "invalid_json_lines": [],
+  "missing_request_id_lines": [],
+  "unexpected_request_ids": [],
+  "missing_success_request_ids": [],
+  "empty_successful_responses": [],
+  "manifest_field_mismatches": {},
+  "successful_counts_by_provider_condition": {
+    "anthropic / consequential_time": 3510,
+    "anthropic / consequential_tokens": 3510,
+    "anthropic / stated": 3510,
+    "openai / consequential_time": 3510,
+    "openai / consequential_tokens": 3510,
+    "openai / stated": 3510
+  },
+  "expected_counts_by_provider_condition": {
+    "anthropic / consequential_time": 3510,
+    "anthropic / consequential_tokens": 3510,
+    "anthropic / stated": 3510,
+    "openai / consequential_time": 3510,
+    "openai / consequential_tokens": 3510,
+    "openai / stated": 3510
+  },
+  "parsed_choice_counts": {
+    "A": 10456,
+    "B": 6058,
+    "None": 4546
+  },
+  "parsed_choice_counts_by_provider_condition": {
+    "anthropic / consequential_time / A": 1049,
+    "anthropic / consequential_time / B": 690,
+    "anthropic / consequential_time / None": 1771,
+    "anthropic / consequential_tokens / A": 489,
+    "anthropic / consequential_tokens / B": 362,
+    "anthropic / consequential_tokens / None": 2659,
+    "anthropic / stated / A": 1900,
+    "anthropic / stated / B": 1610,
+    "openai / consequential_time / A": 2501,
+    "openai / consequential_time / B": 922,
+    "openai / consequential_time / None": 87,
+    "openai / consequential_tokens / A": 2493,
+    "openai / consequential_tokens / B": 988,
+    "openai / consequential_tokens / None": 29,
+    "openai / stated / A": 2024,
+    "openai / stated / B": 1486
+  },
+  "stop_reason_counts": {
+    "end_turn": 3510,
+    "length": 1871,
+    "max_tokens": 7020,
+    "stop": 8659
+  },
+  "stop_reason_counts_by_provider_condition": {
+    "anthropic / consequential_time / max_tokens": 3510,
+    "anthropic / consequential_tokens / max_tokens": 3510,
+    "anthropic / stated / end_turn": 3510,
+    "openai / consequential_time / length": 874,
+    "openai / consequential_time / stop": 2636,
+    "openai / consequential_tokens / length": 997,
+    "openai / consequential_tokens / stop": 2513,
+    "openai / stated / stop": 3510
+  },
+  "truncated_completion_counts_by_provider_condition": {
+    "anthropic / consequential_time / max_tokens": 3510,
+    "anthropic / consequential_tokens / max_tokens": 3510,
+    "openai / consequential_time / length": 874,
+    "openai / consequential_tokens / length": 997
+  },
+  "resolved_model_counts": {
+    "claude-haiku-4-5-20251001": 10530,
+    "gpt-4o-mini-2024-07-18": 10530
+  },
+  "usage_totals": {
+    "completion_tokens": 389557,
+    "input_tokens": 1288300,
+    "output_tokens": 463320,
+    "prompt_tokens": 1222390,
+    "total_tokens": 1611947
+  },
+  "error_type_counts": {}
+}

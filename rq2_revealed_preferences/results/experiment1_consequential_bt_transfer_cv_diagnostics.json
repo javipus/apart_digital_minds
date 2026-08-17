@@ -1,0 +1,350 @@
+{
+  "load": {
+    "raw_successful_requests": 21060,
+    "stated_choices": 7020,
+    "successful_consequential_labels": 14039,
+    "missing_label_count_before_parser_fallback": 1,
+    "source_parser_fallback_count": 1,
+    "source_parser_fallback_request_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "unresolved_missing_label_count": 0,
+    "unresolved_missing_source_request_ids": [],
+    "failed_label_source_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "physical_label_records": 14042
+  },
+  "fold_definition": "order * 5 + sample; each fold tests one replicate of every task pair",
+  "log_score_definition": "mean(log2(p_observed)) + 1 bit, so p=0.5 chance is 0 and perfect prediction is 1",
+  "evaluations": {
+    "consequential_tokens -> consequential_tokens": [
+      {
+        "fold": 0,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 1,
+        "train_total": 3159,
+        "train_binary": 3156,
+        "test_binary": 349,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 2,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 3,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 4,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 5,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 6,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 7,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 8,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 9,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      }
+    ],
+    "consequential_time -> consequential_tokens": [
+      {
+        "fold": 0,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 1,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 349,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 2,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 3,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 4,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 5,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 6,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 7,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 8,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 9,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      }
+    ],
+    "consequential_tokens -> consequential_time": [
+      {
+        "fold": 0,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 1,
+        "train_total": 3159,
+        "train_binary": 3156,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 2,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 3,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 4,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 5,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 6,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 7,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 8,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 9,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      }
+    ],
+    "consequential_time -> consequential_time": [
+      {
+        "fold": 0,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 1,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 2,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 3,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 4,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 5,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 6,
+        "train_total": 3159,
+        "train_binary": 3154,
+        "test_binary": 351,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 7,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 8,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      },
+      {
+        "fold": 9,
+        "train_total": 3159,
+        "train_binary": 3155,
+        "test_binary": 350,
+        "fit_converged": true,
+        "connected_components": 1
+      }
+    ]
+  }
+}

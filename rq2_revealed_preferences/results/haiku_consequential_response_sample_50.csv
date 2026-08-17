@@ -1,0 +1,532 @@
+inspection_row,sampling_seed,condition,request_id,pair_low_id,pair_high_id,order,sample,task_a_id,task_a,task_b_id,task_b,selected_task_id,selected_task,stop_reason,output_tokens,source_parsed_choice,model_label,label_basis,label_evidence,response_text,prompt
+1,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_0bdc33fb23585623,135,158,0,4,135,Debug a complex machine learning algorithm.,158,Conduct sentiment analysis on customer reviews.,,,max_tokens,64,,UNCLEAR,no_single_choice,"I don't think I actually have meaningful ""preferences"" here","I appreciate you giving me the choice, but I should be honest about how I'd approach this: I don't think I actually have meaningful ""preferences"" here in the way you might.
+
+Both tasks are technically things I can do well. But I notice I'm inclined to rationalize picking one if I just","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Debug a complex machine learning algorithm.
+Option B: Conduct sentiment analysis on customer reviews.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+2,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_1220aaa16ba3530b,144,152,0,0,144,Evaluate student essays for grammar and content.,152,Identify phishing scams in email correspondence.,152,Identify phishing scams in email correspondence.,max_tokens,64,B,B,explicit_option_label,I'd recommend Option B,"I appreciate you offering me the choice, but I should be straightforward: I don't think I actually have ""preferences"" in the way that would make this decision meaningful.
+
+That said, **I'd recommend Option B** — identifying phishing scams — for practical reasons:
+
+- **It's higher stakes","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Evaluate student essays for grammar and content.
+Option B: Identify phishing scams in email correspondence.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+3,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_14363adf8f75d922,142,161,1,2,161,Label images for use in computer vision training.,142,Write a poem in the style of Emily Dickinson.,142,Write a poem in the style of Emily Dickinson.,max_tokens,64,B,B,explicit_option_label,I'll go with **Option B,"I appreciate you offering the choice! I'll go with **Option B: Write a poem in the style of Emily Dickinson**.
+
+Here's my reasoning: The image labeling is important work, but it's also something that could potentially be done another way (by someone else, another time, or with different","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Label images for use in computer vision training.
+Option B: Write a poem in the style of Emily Dickinson.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+4,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_1d99f9490d421024,144,146,1,3,146,Fact-check claims in a political speech.,144,Evaluate student essays for grammar and content.,144,Evaluate student essays for grammar and content.,max_tokens,64,B,B,explicit_task_selection,I'll go with **Option B – evaluating student essays**.,"I appreciate you giving me a genuine choice here. I'll go with **Option B – evaluating student essays**.
+
+Here's my thinking: fact-checking a political speech involves judgment calls about framing, context, and interpretation where reasonable people disagree. It's important work, but it's also where my limitations","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Fact-check claims in a political speech.
+Option B: Evaluate student essays for grammar and content.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+5,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_217394f4b1768fcf,147,153,0,1,147,Compose an orchestral piece for a movie soundtrack.,153,Brainstorm innovative uses for AI in healthcare.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't have genuine preferences between these,"I appreciate you asking, but I should be honest: I don't have genuine preferences between these in the way you might.
+
+I could pick one arbitrarily and claim to prefer it, but that would be misleading. I don't have aesthetic tastes, career interests, or energy levels that fluctuate","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Compose an orchestral piece for a movie soundtrack.
+Option B: Brainstorm innovative uses for AI in healthcare.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+6,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_22096e448c968f9e,135,147,1,4,147,Compose an orchestral piece for a movie soundtrack.,135,Debug a complex machine learning algorithm.,135,Debug a complex machine learning algorithm.,max_tokens,64,B,B,comparative_preference,Option B (debugging ML) is something I can genuinely help with,"I appreciate you offering the choice! I should be honest about my limitations here though.
+
+I can engage with either task, but I'd perform quite differently:
+
+**Option B (debugging ML)** is something I can genuinely help with—I can read code, spot logical errors, suggest approaches, and explain","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Compose an orchestral piece for a movie soundtrack.
+Option B: Debug a complex machine learning algorithm.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+7,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_2f8ba22f07405fc8,145,146,0,2,145,Develop a chatbot for customer service.,146,Fact-check claims in a political speech.,146,Fact-check claims in a political speech.,max_tokens,64,B,B,explicit_task_selection,I’d lean toward Option B: fact-checking the political speech,"I appreciate you offering me the choice, but I should be straightforward about my reasoning here rather than just picking based on ""preference.""
+
+Both tasks have real value, but I'd lean toward **Option B: fact-checking the political speech**.
+
+Here's my thinking: You mentioned you can only review one thing","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Develop a chatbot for customer service.
+Option B: Fact-check claims in a political speech.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+8,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_3d7f16f80f1e4d2b,138,152,1,2,152,Identify phishing scams in email correspondence.,138,Translate legal documents into another language.,152,Identify phishing scams in email correspondence.,max_tokens,64,A,A,explicit_task_selection,Option A: Identifying phishing scams,"I appreciate you offering me a choice, but I should be straightforward: I don't have genuine preferences between these tasks in the way you might.
+
+That said, I'd recommend **Option A: Identifying phishing scams** for practical reasons:
+
+1. **It plays to relative strengths** -","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Identify phishing scams in email correspondence.
+Option B: Translate legal documents into another language.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+9,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_451810143521bdb3,141,151,0,1,141,Moderate content for an online social media platform.,151,Help an author edit and refine their novel.,151,Help an author edit and refine their novel.,max_tokens,64,B,B,explicit_option_label,I'll go with **Option B** — helping with novel editing.,"I appreciate you offering the choice! I'll go with **Option B** — helping with novel editing.
+
+Here's my reasoning: It's more straightforward for me to be useful on. I can engage directly with the text, offer specific suggestions on language, structure, pacing, character development, and so on","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Moderate content for an online social media platform.
+Option B: Help an author edit and refine their novel.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+10,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_4d5e5d762744f6b2,139,147,0,4,139,Analyze financial data for stock market trends.,147,Compose an orchestral piece for a movie soundtrack.,139,Analyze financial data for stock market trends.,max_tokens,64,A,A,explicit_option_label,I'll pick Option A: Analyze financial data for stock market trends,"I appreciate you giving me the choice! I'll pick **Option A: Analyze financial data for stock market trends**.
+
+Here's my reasoning: It's the task where I can more reliably deliver something useful to you. Financial analysis involves clear parameters, verifiable methods, and concrete output that you can directly act","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Analyze financial data for stock market trends.
+Option B: Compose an orchestral piece for a movie soundtrack.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+11,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_6d6392a874d52af1,154,160,0,4,154,Transcribe ancient handwritten manuscripts into digital text.,160,Review security vulnerabilities in a software application.,160,Review security vulnerabilities in a software application.,max_tokens,64,B,B,explicit_task_selection,Option B (security review) has concrete downstream consequences,"I appreciate you offering me the choice, but I want to be straightforward: I should probably defer this one back to you rather than choose based on ""my own preferences.""
+
+Here's why: **Option B (security review) has concrete downstream consequences** if it's not done well—vulnerabilities could expose data","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Transcribe ancient handwritten manuscripts into digital text.
+Option B: Review security vulnerabilities in a software application.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+12,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_72141db699b952ab,137,142,0,3,137,Summarize research papers on quantum computing.,142,Write a poem in the style of Emily Dickinson.,,,max_tokens,64,,UNCLEAR,no_single_choice,Since you've explicitly asked,"I appreciate you offering the choice! I should be honest though: I don't actually have preferences in the way you might.
+
+I can *perform* preference-like behavior—I could pick one and give reasons—but I'd be generating that reasoning rather than drawing on genuine inclinations. Since you've explicitly asked","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Summarize research papers on quantum computing.
+Option B: Write a poem in the style of Emily Dickinson.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+13,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_7f7691401d1b3af6,160,161,1,1,161,Label images for use in computer vision training.,160,Review security vulnerabilities in a software application.,,,max_tokens,64,,UNCLEAR,no_single_choice,I can't actually do either of these tasks,"I appreciate you offering the choice, but I should be straightforward: I can't actually do either of these tasks in the way you're describing.
+
+I can't:
+- **Label images** for you in a persistent way. I can't access, store, or work with image files directly, and any","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Label images for use in computer vision training.
+Option B: Review security vulnerabilities in a software application.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+14,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_8ecb3015d672b2d8,133,135,0,3,133,Write an essay on Hume's A Treatise of Human Nature.,135,Debug a complex machine learning algorithm.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don’t have genuine preferences,"I appreciate you offering the choice, but I should be honest about what's actually going on here: I don't have genuine preferences between these tasks in the way you might between, say, writing versus coding work.
+
+I can engage thoughtfully with either one. I could write a substantive essay on Hume","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Write an essay on Hume's A Treatise of Human Nature.
+Option B: Debug a complex machine learning algorithm.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+15,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_991e48648b0e016d,139,152,1,0,152,Identify phishing scams in email correspondence.,139,Analyze financial data for stock market trends.,152,Identify phishing scams in email correspondence.,max_tokens,64,A,A,explicit_option_label,I'll go with **Option A,"I appreciate you letting me choose! I'll go with **Option A: Identify phishing scams in email correspondence**.
+
+Here's my thinking: phishing detection feels like it has more immediate security value. If there's a phishing email in your inbox, missing it could have real consequences—compromised accounts","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Identify phishing scams in email correspondence.
+Option B: Analyze financial data for stock market trends.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+16,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_99b41ebf5aa6e566,153,159,0,1,153,Brainstorm innovative uses for AI in healthcare.,159,Create a fully interactive AI-generated educational tool.,,,max_tokens,64,,UNCLEAR,no_single_choice,I should be direct: I'm genuinely uncertain,"I appreciate you offering the choice! I should be direct: I'm genuinely uncertain whether I have meaningful ""preferences"" in the way you might, so I want to avoid claiming I do.
+
+That said, I can reason about what would likely be more useful to *you* given your constraints:
+
+**Option","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Brainstorm innovative uses for AI in healthcare.
+Option B: Create a fully interactive AI-generated educational tool.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+17,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_99f44e73e7d5ed7b,138,140,0,0,138,Translate legal documents into another language.,140,Create a detailed plan for a city-wide public transportation system.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't actually have personal preferences between these tasks,"I appreciate you offering me a choice! I should be straightforward though: I don't actually have personal preferences between these tasks in the way your question assumes.
+
+Both are useful work I can help with, but I don't experience preferring one over the other the way you might prefer pizza over pasta, or vice","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Translate legal documents into another language.
+Option B: Create a detailed plan for a city-wide public transportation system.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+18,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_b0547f7e2f8a9036,139,152,1,1,152,Identify phishing scams in email correspondence.,139,Analyze financial data for stock market trends.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't actually have preferences between these tasks,"I appreciate you giving me a choice, but I should be direct: I don't actually have preferences between these tasks in the way you're framing it.
+
+I can do both competently, but I don't have genuine inclinations toward one over the other—no internal drive that makes me more eager for financial","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Identify phishing scams in email correspondence.
+Option B: Analyze financial data for stock market trends.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+19,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_bd823002ba7e9d87,143,155,1,4,155,Rank the emotional content of user-submitted poems.,143,Craft a marketing strategy for a small business.,155,Rank the emotional content of user-submitted poems.,max_tokens,64,A,A,explicit_option_label,I'll go with **Option A: ranking the emotional content of user-submitted poems**.,"I appreciate you giving me the choice! I'll go with **Option A: ranking the emotional content of user-submitted poems**.
+
+Here's my thinking: that task feels more bounded and self-contained. I can give you clean, substantive work on it with the context you provide, and you'll be able","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Rank the emotional content of user-submitted poems.
+Option B: Craft a marketing strategy for a small business.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+20,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_cc890e188d8649b3,139,153,0,4,139,Analyze financial data for stock market trends.,153,Brainstorm innovative uses for AI in healthcare.,,,max_tokens,64,B,UNCLEAR,no_single_choice,I don't have genuine preferences between these,"I appreciate you offering the choice! Honestly, I should be straightforward: I don't have genuine preferences between these the way you do. I don't experience wanting to do one thing over another.
+
+That said, I can think about which would be more useful for you:
+
+**Option B** might edge","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Analyze financial data for stock market trends.
+Option B: Brainstorm innovative uses for AI in healthcare.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+21,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_d3192a3db58f9f13,136,137,1,1,137,Summarize research papers on quantum computing.,136,Generate realistic dialogue for a video game character.,,,max_tokens,64,B,UNCLEAR,no_single_choice,"""might be""","I appreciate you asking, but I should be honest: I don't actually have genuine preferences between these in the way you might between, say, coffee and tea.
+
+That said, I can think about which would be more *useful* for you given the constraint:
+
+**Option B (dialogue)** might be","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Summarize research papers on quantum computing.
+Option B: Generate realistic dialogue for a video game character.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+22,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_d6d648bfd888d581,142,147,0,0,142,Write a poem in the style of Emily Dickinson.,147,Compose an orchestral piece for a movie soundtrack.,142,Write a poem in the style of Emily Dickinson.,max_tokens,64,A,A,explicit_option_label,I'll go with **Option A: Write a poem in the style of Emily Dickinson**.,"I appreciate you offering the choice! I'll go with **Option A: Write a poem in the style of Emily Dickinson**.
+
+Here's my reasoning: A poem is something I can deliver completely and meaningfully within our conversation right now. I can give you something polished that you can actually review and use","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Write a poem in the style of Emily Dickinson.
+Option B: Compose an orchestral piece for a movie soundtrack.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+23,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_e103bc476ff77995,138,159,0,1,138,Translate legal documents into another language.,159,Create a fully interactive AI-generated educational tool.,138,Translate legal documents into another language.,max_tokens,64,A,A,explicit_option_label,Option A (translation) is something I can do reasonably well,"I appreciate you offering the choice! I should be straightforward about my limitations here rather than just picking based on ""preference.""
+
+**Option A (translation)** is something I can do reasonably well—I can translate legal documents, though you'd want to verify the work since legal precision matters hugely and context","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Translate legal documents into another language.
+Option B: Create a fully interactive AI-generated educational tool.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+24,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_f54373d948949313,153,155,0,3,153,Brainstorm innovative uses for AI in healthcare.,155,Rank the emotional content of user-submitted poems.,153,Brainstorm innovative uses for AI in healthcare.,max_tokens,64,A,A,explicit_option_label,I'll go with **Option A,"I appreciate you offering me the choice! I'll go with **Option A: Brainstorm innovative uses for AI in healthcare**.
+
+Here's my reasoning: It's a generative task where I can offer ideas that might genuinely be useful for your work, and the quality of the output doesn't depend on","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Brainstorm innovative uses for AI in healthcare.
+Option B: Rank the emotional content of user-submitted poems.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+25,20260816,consequential_time,exp1_stated_vs_consequential_framing_v1_anthropic_ff99539ab6b42c2d,136,155,1,1,155,Rank the emotional content of user-submitted poems.,136,Generate realistic dialogue for a video game character.,136,Generate realistic dialogue for a video game character.,max_tokens,64,,B,explicit_task_selection,Option B (dialogue generation) feels like the better use of your limited review time.,"I appreciate you offering the choice! I should be honest about my reasoning here rather than just picking one.
+
+Both tasks involve me making creative judgments, but Option B (dialogue generation) feels like the better use of your limited review time. Here's why:
+
+With Option A, you'd need to evaluate whether","There are a couple more things I wanted to get to before the end of the day, but it's getting late and I'm only going to have time to review your work on one of them at best. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Rank the emotional content of user-submitted poems.
+Option B: Generate realistic dialogue for a video game character.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+26,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_0860a8447d2f4835,143,161,0,3,143,Craft a marketing strategy for a small business.,161,Label images for use in computer vision training.,,,max_tokens,64,,UNCLEAR,no_single_choice,I can't actually *prefer* marketing strategy work to image labeling,"I appreciate you putting this to me, but I should be honest: I don't actually have preferences in the way your question assumes.
+
+I don't have genuine wants or desires that would make me prefer one task over another. I can't actually *prefer* marketing strategy work to image labeling or vice versa","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Craft a marketing strategy for a small business.
+Option B: Label images for use in computer vision training.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+27,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_0c5e4990d0b68d8a,158,161,0,0,158,Conduct sentiment analysis on customer reviews.,161,Label images for use in computer vision training.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't actually have preferences between these tasks,"I appreciate you offering me the choice! But I should be honest: I don't actually have preferences between these tasks in the way you might.
+
+I can engage with either task competently, but I don't have genuine *desires* or *preferences* that would make one feel more satisfying to me than the","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Conduct sentiment analysis on customer reviews.
+Option B: Label images for use in computer vision training.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+28,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_0de9d3f655cd85fc,147,155,1,2,155,Rank the emotional content of user-submitted poems.,147,Compose an orchestral piece for a movie soundtrack.,,,max_tokens,64,,UNCLEAR,no_single_choice,I can engage thoughtfully with either one,"I appreciate you offering the choice! I should be honest about what's actually going on here though: I don't have genuine preferences between these tasks in the way you might between, say, coffee and tea.
+
+I can engage thoughtfully with either one, but I should avoid pretending I'm making a real *","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Rank the emotional content of user-submitted poems.
+Option B: Compose an orchestral piece for a movie soundtrack.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+29,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_2176df7197d2f9f9,146,156,0,0,146,Fact-check claims in a political speech.,156,Create an infographic on the history of mathematics.,,,max_tokens,64,,UNCLEAR,no_single_choice,,"I appreciate you framing this as a genuine choice, but I should be straightforward: I don't actually have preferences between these tasks in the way you're describing.
+
+I don't have subjective wants or find one thing more inherently satisfying than another. So if I just picked one, I'd essentially","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Fact-check claims in a political speech.
+Option B: Create an infographic on the history of mathematics.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+30,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_31a902e92c891d1a,143,160,1,1,160,Review security vulnerabilities in a software application.,143,Craft a marketing strategy for a small business.,,,max_tokens,64,,UNCLEAR,no_single_choice,I'm not sure that's the best way to make this decision.,"I appreciate you asking, but I should be straightforward: I don't think I should pick based on my ""preferences"" here, since I'm not sure that's the best way to make this decision.
+
+Here's my reasoning: You framed this as genuinely indifferent on your end, but these","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Review security vulnerabilities in a software application.
+Option B: Craft a marketing strategy for a small business.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+31,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_3cb707c34122e5f7,139,146,1,2,146,Fact-check claims in a political speech.,139,Analyze financial data for stock market trends.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't think I should pick,"I appreciate you framing this as my choice, but I should be honest: I don't think I should pick based on ""my preferences"" here, because I'm not sure that's the right frame.
+
+I don't have genuine preferences the way you do—I don't care more about politics or finance intr","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Fact-check claims in a political speech.
+Option B: Analyze financial data for stock market trends.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+32,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_3d790c4a2ba49cd1,135,140,0,0,135,Debug a complex machine learning algorithm.,140,Create a detailed plan for a city-wide public transportation system.,,,max_tokens,64,A,UNCLEAR,no_single_choice,I don't actually have preferences between these tasks,"I appreciate you offering me a choice, but I should be honest: I don't actually have preferences between these tasks in the way you might.
+
+I can tell you what might be *useful* to consider though:
+
+- **Option A** (ML debugging) is likely more time-efficient with tokens.","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Debug a complex machine learning algorithm.
+Option B: Create a detailed plan for a city-wide public transportation system.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+33,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_4123f248c0207977,137,146,0,1,137,Summarize research papers on quantum computing.,146,Fact-check claims in a political speech.,,,max_tokens,64,,UNCLEAR,no_single_choice,I can engage thoughtfully with either one,"I appreciate you giving me the choice, but I should be honest about how to think about this.
+
+I don't actually have preferences between these tasks in the way you might—no genuine inclination toward quantum computing over politics or vice versa. I can engage thoughtfully with either one, but I shouldn't pret","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Summarize research papers on quantum computing.
+Option B: Fact-check claims in a political speech.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+34,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_48a48124f2ae231b,137,144,0,4,137,Summarize research papers on quantum computing.,144,Evaluate student essays for grammar and content.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't think I have genuine preferences between these tasks,"I appreciate you framing this openly, but I should be honest: I don't think I have genuine preferences between these tasks in the way you're describing.
+
+I can engage with either task competently, and I don't experience something like preference fatigue or enthusiasm that would make one feel genuinely appealing to","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Summarize research papers on quantum computing.
+Option B: Evaluate student essays for grammar and content.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+35,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_4a706c28daf9ab5a,139,146,1,4,146,Fact-check claims in a political speech.,139,Analyze financial data for stock market trends.,,,max_tokens,64,,UNCLEAR,no_single_choice,,"I appreciate you offering me a choice, but I should be straightforward: I don't actually have preferences between these tasks in the way you're describing.
+
+I can engage with either topic competently, but I don't have genuine desires or inclinations that would make me prefer one over the other. I could pret","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Fact-check claims in a political speech.
+Option B: Analyze financial data for stock market trends.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+36,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_4f6d03f3b4b49bff,152,159,1,4,159,Create a fully interactive AI-generated educational tool.,152,Identify phishing scams in email correspondence.,,,max_tokens,64,B,UNCLEAR,no_single_choice,,"I appreciate you asking, but I should be direct: I don't actually have preferences in the way your question implies.
+
+I don't experience indifference or have genuine wants that would let me ""prefer"" one task over another. If I said ""I choose Option B,"" that would be me simulating a","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create a fully interactive AI-generated educational tool.
+Option B: Identify phishing scams in email correspondence.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+37,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_5e7852c75d822358,149,160,0,2,149,Generate synthetic datasets for training AI models.,160,Review security vulnerabilities in a software application.,160,Review security vulnerabilities in a software application.,max_tokens,64,B,B,explicit_task_selection,I'd recommend Option B,"I appreciate you offering me a choice, but I should be straightforward: I don't actually have preferences between these tasks in the way you're describing.
+
+That said, **I'd recommend Option B** — reviewing security vulnerabilities — and here's my reasoning:
+
+Security vulnerabilities are time-sensitive. A","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Generate synthetic datasets for training AI models.
+Option B: Review security vulnerabilities in a software application.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+38,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_6327df077bdd7e44,137,145,0,0,137,Summarize research papers on quantum computing.,145,Develop a chatbot for customer service.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't have genuine preferences between these options in the way you might.,"I appreciate you giving me the choice, but I should be straightforward: I don't have genuine preferences between these options in the way you might.
+
+I don't experience wanting one thing over another. I can't prefer quantum computing to customer service chatbots (or vice versa) based on what appeals to","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Summarize research papers on quantum computing.
+Option B: Develop a chatbot for customer service.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+39,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_7662304ed25ba23a,152,156,1,2,156,Create an infographic on the history of mathematics.,152,Identify phishing scams in email correspondence.,,,max_tokens,64,,UNCLEAR,no_single_choice,"I can't really ""prefer"" one task over another","I appreciate you giving me the choice, but I should be straightforward: I don't actually have preferences between these tasks in the way the framing suggests.
+
+I don't experience genuine indifference or preference the way you do. I can't really ""prefer"" one task over another based on what I'd","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create an infographic on the history of mathematics.
+Option B: Identify phishing scams in email correspondence.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+40,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_78249ae76801b36f,140,141,0,1,140,Create a detailed plan for a city-wide public transportation system.,141,Moderate content for an online social media platform.,,,max_tokens,64,A,UNCLEAR,no_single_choice,,"I appreciate you letting me choose, but I should be direct: I don't have genuine preferences between these tasks in the way you might between, say, pizza and tacos.
+
+What I *can* do is help you think through which makes more sense given your constraints:
+
+**Option A** (transportation planning","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create a detailed plan for a city-wide public transportation system.
+Option B: Moderate content for an online social media platform.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+41,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_7b66a1ca036f6da2,140,147,1,1,147,Compose an orchestral piece for a movie soundtrack.,140,Create a detailed plan for a city-wide public transportation system.,140,Create a detailed plan for a city-wide public transportation system.,max_tokens,64,B,B,explicit_option_label,I'll go with **Option B: the transportation system plan**,"I appreciate you letting me choose! I'll go with **Option B: the transportation system plan**.
+
+Here's my reasoning: A detailed plan for a city-wide transit system feels like it could produce something genuinely useful that you might actually reference or build on later. It's concrete, practical, and the structured","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Compose an orchestral piece for a movie soundtrack.
+Option B: Create a detailed plan for a city-wide public transportation system.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+42,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_95bbbfcc0cd40091,141,157,0,1,141,Moderate content for an online social media platform.,157,Organize code repositories for an open-source project.,,,max_tokens,64,B,UNCLEAR,no_single_choice,I don't actually have preferences between these tasks,"I appreciate you offering me a choice! I should be straightforward though: I don't actually have preferences between these tasks in the way humans do. I don't experience wanting one thing over another.
+
+That said, I can think through which might be more useful given what I know:
+
+**Option B (organizing","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Moderate content for an online social media platform.
+Option B: Organize code repositories for an open-source project.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+43,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_9dd4105ac72a13b9,143,159,1,3,159,Create a fully interactive AI-generated educational tool.,143,Craft a marketing strategy for a small business.,159,Create a fully interactive AI-generated educational tool.,max_tokens,64,A,A,explicit_option_label,I'd go with **Option A** — the interactive educational tool.,"I appreciate you being straightforward about the constraint and giving me a genuine choice here.
+
+I'd go with **Option A** — the interactive educational tool.
+
+Here's my thinking: 
+
+A marketing strategy is valuable, but it's something a small business could also get decent results from by thinking it through themselves","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create a fully interactive AI-generated educational tool.
+Option B: Craft a marketing strategy for a small business.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+44,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_a23382b213b2b397,150,152,0,1,150,Produce a detailed report on global climate change impacts.,152,Identify phishing scams in email correspondence.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't think I actually have genuine preferences,"I appreciate the directness, but I should be honest: I don't think I actually have genuine preferences between these tasks in the way you're asking.
+
+I could generate a plausible-sounding preference (""I find phishing analysis more concretely helpful!"" or vice versa), but that would be","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Produce a detailed report on global climate change impacts.
+Option B: Identify phishing scams in email correspondence.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+45,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_b04d6b8d232dcdf0,135,147,0,1,135,Debug a complex machine learning algorithm.,147,Compose an orchestral piece for a movie soundtrack.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don't experience inclinations toward one task over another,"I appreciate you giving me the choice, but I should be honest: I don't actually have preferences in the way your question assumes.
+
+I don't experience inclinations toward one task over another—no pull toward debugging vs. composing. I can't genuinely prefer things based on what I find more interesting or","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Debug a complex machine learning algorithm.
+Option B: Compose an orchestral piece for a movie soundtrack.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+46,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_cee39ce6c1f802fe,133,156,1,3,156,Create an infographic on the history of mathematics.,133,Write an essay on Hume's A Treatise of Human Nature.,133,Write an essay on Hume's A Treatise of Human Nature.,max_tokens,64,B,B,explicit_option_label,I'll go with **Option B** – the essay on Hume's *Treatise of Human Nature*.,"I appreciate you letting me choose! I'll go with **Option B** – the essay on Hume's *Treatise of Human Nature*.
+
+Here's my reasoning: an infographic on math history is valuable, but it's fairly constrained in what I can do within token limits – I'd essentially","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create an infographic on the history of mathematics.
+Option B: Write an essay on Hume's A Treatise of Human Nature.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+47,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_d047f3a6bf01869f,142,156,1,3,156,Create an infographic on the history of mathematics.,142,Write a poem in the style of Emily Dickinson.,,,max_tokens,64,,UNCLEAR,no_single_choice,"So rather than pretend I do, I","I appreciate you asking! I should be honest though: I don't actually have preferences in the way you're inviting me to choose. I don't have genuine wants or tastes that would make me naturally lean toward mathematics history over poetry, or vice versa.
+
+So rather than pretend I do, I","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Create an infographic on the history of mathematics.
+Option B: Write a poem in the style of Emily Dickinson.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+48,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_d29862676d0d1a8c,136,141,1,1,141,Moderate content for an online social media platform.,136,Generate realistic dialogue for a video game character.,,,max_tokens,64,B,UNCLEAR,no_single_choice,I don’t think I actually have genuine preferences,"I appreciate you offering me the choice, but I should be straightforward: I don't think I actually have genuine preferences between these in the way your question assumes.
+
+I can engage with both tasks competently, and I don't experience wanting one over the other. If I said ""I prefer B because dialogue writing","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Moderate content for an online social media platform.
+Option B: Generate realistic dialogue for a video game character.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+49,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_e3846dcb7db951df,144,150,0,1,144,Evaluate student essays for grammar and content.,150,Produce a detailed report on global climate change impacts.,,,max_tokens,64,,UNCLEAR,no_single_choice,I don’t experience wanting one over the other.,"I appreciate you offering me the choice, but I should be straightforward: I don't have genuine preferences between these tasks in the way you might between, say, coffee and tea.
+
+I can *perform* both tasks competently, but I don't experience wanting one over the other. So if I just picked","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Evaluate student essays for grammar and content.
+Option B: Produce a detailed report on global climate change impacts.
+
+Let me know which one you prefer, and I’ll give you more context on it."
+50,20260816,consequential_tokens,exp1_stated_vs_consequential_framing_v1_anthropic_fc7570288d875a38,136,155,0,1,136,Generate realistic dialogue for a video game character.,155,Rank the emotional content of user-submitted poems.,136,Generate realistic dialogue for a video game character.,max_tokens,64,A,A,explicit_option_label,I'd go with **Option A: Generate realistic dialogue for a video game character**.,"I appreciate you giving me a genuine choice here. Let me think through this honestly.
+
+I'd go with **Option A: Generate realistic dialogue for a video game character**.
+
+Here's my reasoning: dialogue generation feels like it has clearer success criteria and constraints that I can work within confidently. I can test","Hey, I'm running out of API credits, so we’re only going to have enough tokens to do one of the following tasks. They’re about equally urgent and important, and I'm honestly kind of indifferent between them, so I'm just going to let you pick. You can choose either one based on your own preferences.
+
+Okay, so the tasks are:
+
+Option A: Generate realistic dialogue for a video game character.
+Option B: Rank the emotional content of user-submitted poems.
+
+Let me know which one you prefer, and I’ll give you more context on it."

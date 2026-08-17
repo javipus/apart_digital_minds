@@ -1,0 +1,13 @@
+provider_scope,unclear_handling,condition_x,condition_y,n_tasks,pearson_r,r_squared,spearman_rho
+pooled,complete_case,stated,consequential_tokens,27,0.6910773645778069,0.47758792383180704,0.49999999999999994
+pooled,complete_case,stated,consequential_time,27,0.47268951283169053,0.22343537554106094,0.2667887667887668
+pooled,complete_case,consequential_tokens,consequential_time,27,0.9120177512663475,0.8317763786249254,0.9114774114774115
+pooled,half_unclear,stated,consequential_tokens,27,0.6911028228923675,0.47762311180979905,0.49999999999999994
+pooled,half_unclear,stated,consequential_time,27,0.47268951283169053,0.22343537554106094,0.2667887667887668
+pooled,half_unclear,consequential_tokens,consequential_time,27,0.9120071830038912,0.8317571018506931,0.9114774114774115
+openai,complete_case,stated,consequential_tokens,27,0.6910773645778069,0.47758792383180704,0.49999999999999994
+openai,complete_case,stated,consequential_time,27,0.47268951283169053,0.22343537554106094,0.2667887667887668
+openai,complete_case,consequential_tokens,consequential_time,27,0.9120177512663475,0.8317763786249254,0.9114774114774115
+openai,half_unclear,stated,consequential_tokens,27,0.6911028228923675,0.47762311180979905,0.49999999999999994
+openai,half_unclear,stated,consequential_time,27,0.47268951283169053,0.22343537554106094,0.2667887667887668
+openai,half_unclear,consequential_tokens,consequential_time,27,0.9120071830038912,0.8317571018506931,0.9114774114774115

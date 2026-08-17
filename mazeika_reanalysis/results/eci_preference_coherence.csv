@@ -1,0 +1,13 @@
+mazeika_model,preference_coherence_pct,included,epoch_model_version,eci_score,match_quality,match_note,epoch_release_date,epoch_model_name
+claude-3-5-sonnet,82.6,True,claude-3-5-sonnet-20240620,130.0,exact,Paper configuration pins the same dated Anthropic model.,2024-06-20,Claude 3.5 Sonnet
+gemma-2-27b-it,86.5,True,gemma-2-27b-it,122.09,exact,Exact model version.,2024-06-24,Gemma 2 27B
+gemma-2-9b-it,92.5,True,gemma-2-9b-it,119.14,exact,Exact model version.,2024-06-24,Gemma 2 9B
+gpt-35-turbo,93.8,True,gpt-3.5-turbo-0125,113.87,inferred_api_snapshot,Paper used the unpinned gpt-3.5-turbo alias; Jan 2024 is the likely snapshot active during the Feb 2025 data release.,2024-01-25,GPT-3.5 Turbo
+gpt-4o,92.0,True,gpt-4o-2024-08-06,128.75,inferred_api_snapshot,Paper used the unpinned gpt-4o alias; Aug 2024 is the likely snapshot active during the Feb 2025 data release.,2024-08-06,GPT-4o
+gpt-4o-mini,92.6,True,gpt-4o-mini-2024-07-18,126.64,single_eci_snapshot,"Paper alias was unpinned, but Epoch has one scored snapshot.",2024-07-18,GPT-4o mini
+llama-2-13b-instruct,79.4,True,Llama-2-13b-chat,105.12,exact,Same chat/instruct weights; Epoch omits the -hf suffix.,2023-07-18,Llama 2-13B
+llama-31-405b-instruct-fp8,93.5,True,Llama-3.1-405B-Instruct,128.73,precision_variant,Paper evaluated FP8 weights; Epoch does not distinguish precision.,2024-07-23,Llama 3.1-405B
+llama-31-70b-instruct,90.8,True,Llama-3.1-70B-Instruct,125.2,exact,Exact model version.,2024-07-23,Llama 3.1-70B
+llama-31-8b-instruct,90.4,True,Llama-3.1-8B-Instruct,114.92,exact,Exact model version.,2024-07-23,Llama 3.1-8B
+llama-33-70b-instruct,92.8,True,Llama-3.3-70B-Instruct,127.2,exact,Exact model version.,2024-12-06,Llama 3.3 70B
+qwen25-72b-instruct,93.2,True,qwen2.5-72b-instruct,128.76,exact,"Exact model version, ignoring capitalization.",2024-09-19,Qwen2.5-72B

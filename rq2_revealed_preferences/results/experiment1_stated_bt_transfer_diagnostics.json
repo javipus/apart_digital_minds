@@ -1,0 +1,223 @@
+{
+  "load": {
+    "raw_successful_requests": 21060,
+    "stated_choices": 7020,
+    "successful_consequential_labels": 14039,
+    "missing_label_count_before_parser_fallback": 1,
+    "source_parser_fallback_count": 1,
+    "source_parser_fallback_request_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "unresolved_missing_label_count": 0,
+    "unresolved_missing_source_request_ids": [],
+    "failed_label_source_ids": [
+      "exp1_stated_vs_consequential_framing_v1_openai_53b2a94de2eefdd9"
+    ],
+    "physical_label_records": 14042
+  },
+  "stated_fit": {
+    "converged": true,
+    "iterations": 9,
+    "negative_log_likelihood": 900.6097941253649,
+    "max_absolute_gradient": 6.2784104435487534e-06,
+    "l2_penalty": 1e-06,
+    "total_records": 3510,
+    "included_records": 3510,
+    "unclear_records": 0,
+    "unclear_rate": 0.0,
+    "observed_pair_count": 351,
+    "possible_pair_count": 351,
+    "connected_components": 1
+  },
+  "conditions": {
+    "consequential_tokens": {
+      "total_records": 3510,
+      "binary_records": 3505,
+      "unclear_records": 5,
+      "displayed_option_a_choice_rate": 0.7289586305278174,
+      "consequential_full_fit": {
+        "converged": true,
+        "iterations": 7,
+        "negative_log_likelihood": 1638.5555133402381,
+        "max_absolute_gradient": 8.30843846937329e-08,
+        "l2_penalty": 1e-06,
+        "total_records": 3510,
+        "included_records": 3505,
+        "unclear_records": 5,
+        "unclear_rate": 0.0014245014245014246,
+        "observed_pair_count": 351,
+        "possible_pair_count": 351,
+        "connected_components": 1
+      },
+      "cross_validation_folds": [
+        {
+          "fold": 0,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 1,
+          "train_binary_choices": 3156,
+          "test_binary_choices": 349,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 2,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 3,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 4,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 5,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 6,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 7,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 8,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 9,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        }
+      ]
+    },
+    "consequential_time": {
+      "total_records": 3510,
+      "binary_records": 3505,
+      "unclear_records": 5,
+      "displayed_option_a_choice_rate": 0.7563480741797433,
+      "consequential_full_fit": {
+        "converged": true,
+        "iterations": 7,
+        "negative_log_likelihood": 1803.7664867192784,
+        "max_absolute_gradient": 9.101230431602313e-09,
+        "l2_penalty": 1e-06,
+        "total_records": 3510,
+        "included_records": 3505,
+        "unclear_records": 5,
+        "unclear_rate": 0.0014245014245014246,
+        "observed_pair_count": 351,
+        "possible_pair_count": 351,
+        "connected_components": 1
+      },
+      "cross_validation_folds": [
+        {
+          "fold": 0,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 1,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 2,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 3,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 4,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 5,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 6,
+          "train_binary_choices": 3154,
+          "test_binary_choices": 351,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 7,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 8,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        },
+        {
+          "fold": 9,
+          "train_binary_choices": 3155,
+          "test_binary_choices": 350,
+          "fit_converged": true,
+          "connected_components": 1
+        }
+      ]
+    }
+  },
+  "metric_definitions": {
+    "mean_probability_correct": "Mean probability assigned to the observed A/B choice.",
+    "mean_log_score_nats": "Mean natural log probability assigned to the observed A/B choice; higher is better and 0 is perfect.",
+    "hard_accuracy": "Fraction for which the option with probability above 0.5 was observed."
+  }
+}

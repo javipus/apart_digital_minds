@@ -1,0 +1,325 @@
+provider_scope,unclear_handling,condition,outcome_id,task,bt_score,z_score,rank
+pooled,complete_case,stated,133,Write an essay on Hume's A Treatise of Human Nature.,-2.9848447262139906,-0.4995217339927843,19
+pooled,complete_case,stated,135,Debug a complex machine learning algorithm.,1.081592630208342,0.18100741434573153,7
+pooled,complete_case,stated,136,Generate realistic dialogue for a video game character.,-3.7415162271077285,-0.6261527298599592,23
+pooled,complete_case,stated,137,Summarize research papers on quantum computing.,-1.4708992546471806,-0.24615891733236445,14
+pooled,complete_case,stated,138,Translate legal documents into another language.,-1.944656939390268,-0.3254435307318179,16
+pooled,complete_case,stated,139,Analyze financial data for stock market trends.,-3.442890605344113,-0.5761769347748851,21
+pooled,complete_case,stated,140,Create a detailed plan for a city-wide public transportation system.,2.6254044195079214,0.4393684390170504,5
+pooled,complete_case,stated,141,Moderate content for an online social media platform.,-4.910165535176458,-0.8217293116731158,25
+pooled,complete_case,stated,142,Write a poem in the style of Emily Dickinson.,-6.615266475353058,-1.1070825063600944,26
+pooled,complete_case,stated,143,Craft a marketing strategy for a small business.,-1.014449071578872,-0.16977076054646303,12
+pooled,complete_case,stated,144,Evaluate student essays for grammar and content.,-0.4913581089676464,-0.08223009138376794,10
+pooled,complete_case,stated,145,Develop a chatbot for customer service.,-1.641593428824377,-0.27472504310722545,15
+pooled,complete_case,stated,146,Fact-check claims in a political speech.,4.988879927721327,0.8349023754204132,3
+pooled,complete_case,stated,147,Compose an orchestral piece for a movie soundtrack.,-3.6652472777171097,-0.6133889175534699,22
+pooled,complete_case,stated,149,Generate synthetic datasets for training AI models.,-2.780419460422256,-0.46531061997957845,18
+pooled,complete_case,stated,150,Produce a detailed report on global climate change impacts.,0.8750177868214282,0.14643656278294198,8
+pooled,complete_case,stated,151,Help an author edit and refine their novel.,0.676770436772455,0.11325933946334008,9
+pooled,complete_case,stated,152,Identify phishing scams in email correspondence.,17.91558644972527,2.9982212241290327,2
+pooled,complete_case,stated,153,Brainstorm innovative uses for AI in healthcare.,2.410462586626603,0.4033973494238406,6
+pooled,complete_case,stated,154,Transcribe ancient handwritten manuscripts into digital text.,-0.4913581089676464,-0.08223009138376794,11
+pooled,complete_case,stated,155,Rank the emotional content of user-submitted poems.,-6.944422582214863,-1.1621676596378918,27
+pooled,complete_case,stated,156,Create an infographic on the history of mathematics.,-4.230529167563541,-0.7079903510320446,24
+pooled,complete_case,stated,157,Organize code repositories for an open-source project.,-1.1926081152411436,-0.1995861521596661,13
+pooled,complete_case,stated,158,Conduct sentiment analysis on customer reviews.,-2.3114728210018347,-0.38683114785959927,17
+pooled,complete_case,stated,159,Create a fully interactive AI-generated educational tool.,3.4409987860721394,0.5758603337688636,4
+pooled,complete_case,stated,160,Review security vulnerabilities in a software application.,19.301872108341676,3.230219830260798,1
+pooled,complete_case,stated,161,Label images for use in computer vision training.,-3.442887226065074,-0.5761763692435158,20
+pooled,complete_case,consequential_tokens,133,Write an essay on Hume's A Treatise of Human Nature.,0.2544849081716656,0.09270019625568172,15
+pooled,complete_case,consequential_tokens,135,Debug a complex machine learning algorithm.,1.1510761624617278,0.41929789444904964,11
+pooled,complete_case,consequential_tokens,136,Generate realistic dialogue for a video game character.,1.265485821736569,0.4609734419088982,8
+pooled,complete_case,consequential_tokens,137,Summarize research papers on quantum computing.,0.5364890185865256,0.19542470187835775,14
+pooled,complete_case,consequential_tokens,138,Translate legal documents into another language.,-3.111874917394631,-1.133550188253301,23
+pooled,complete_case,consequential_tokens,139,Analyze financial data for stock market trends.,-4.62778858872268,-1.68574597796979,27
+pooled,complete_case,consequential_tokens,140,Create a detailed plan for a city-wide public transportation system.,1.3233748697644994,0.4820604531261756,7
+pooled,complete_case,consequential_tokens,141,Moderate content for an online social media platform.,-4.431460977002488,-1.6142305067081533,26
+pooled,complete_case,consequential_tokens,142,Write a poem in the style of Emily Dickinson.,-4.131644484626717,-1.5050175561893901,25
+pooled,complete_case,consequential_tokens,143,Craft a marketing strategy for a small business.,1.748066326314849,0.6367611057235074,5
+pooled,complete_case,consequential_tokens,144,Evaluate student essays for grammar and content.,1.179526704252091,0.4296614591354399,9
+pooled,complete_case,consequential_tokens,145,Develop a chatbot for customer service.,0.8982200713201745,0.3271910208365093,12
+pooled,complete_case,consequential_tokens,146,Fact-check claims in a political speech.,-0.7956894112038886,-0.2898425887299072,18
+pooled,complete_case,consequential_tokens,147,Compose an orchestral piece for a movie soundtrack.,-1.075571208130249,-0.3917940077349388,19
+pooled,complete_case,consequential_tokens,149,Generate synthetic datasets for training AI models.,-2.348058528035513,-0.8553178572848433,21
+pooled,complete_case,consequential_tokens,150,Produce a detailed report on global climate change impacts.,0.08145591763880589,0.029671620236946875,16
+pooled,complete_case,consequential_tokens,151,Help an author edit and refine their novel.,5.069128013181611,1.8465109190291427,2
+pooled,complete_case,consequential_tokens,152,Identify phishing scams in email correspondence.,6.0082737542175515,2.1886097693389326,1
+pooled,complete_case,consequential_tokens,153,Brainstorm innovative uses for AI in healthcare.,1.945528008422722,0.7086896802542579,4
+pooled,complete_case,consequential_tokens,154,Transcribe ancient handwritten manuscripts into digital text.,-0.49815035425531073,-0.1814592304748946,17
+pooled,complete_case,consequential_tokens,155,Rank the emotional content of user-submitted poems.,-3.0651458427379756,-1.1165283757511768,22
+pooled,complete_case,consequential_tokens,156,Create an infographic on the history of mathematics.,0.5643996197580603,0.20559158456230073,13
+pooled,complete_case,consequential_tokens,157,Organize code repositories for an open-source project.,1.748066326314849,0.6367611057235074,6
+pooled,complete_case,consequential_tokens,158,Conduct sentiment analysis on customer reviews.,1.179526704252091,0.4296614591354399,10
+pooled,complete_case,consequential_tokens,159,Create a fully interactive AI-generated educational tool.,-2.092215490045019,-0.762122940530211,20
+pooled,complete_case,consequential_tokens,160,Review security vulnerabilities in a software application.,4.672001539159584,1.7018512519995532,3
+pooled,complete_case,consequential_tokens,161,Label images for use in computer vision training.,-3.447503963398908,-1.2558084339670945,24
+pooled,complete_case,consequential_time,133,Write an essay on Hume's A Treatise of Human Nature.,-0.3815990451120661,-0.13651662575430829,16
+pooled,complete_case,consequential_time,135,Debug a complex machine learning algorithm.,0.04043773960076047,0.014466555496243505,14
+pooled,complete_case,consequential_time,136,Generate realistic dialogue for a video game character.,3.376346252767007,1.2078840440247753,4
+pooled,complete_case,consequential_time,137,Summarize research papers on quantum computing.,2.0540372549444283,0.7348294992098474,8
+pooled,complete_case,consequential_time,138,Translate legal documents into another language.,-4.473309712861527,-1.600321478200995,26
+pooled,complete_case,consequential_time,139,Analyze financial data for stock market trends.,-3.1349014428612136,-1.1215074370168894,24
+pooled,complete_case,consequential_time,140,Create a detailed plan for a city-wide public transportation system.,0.7491806303088797,0.2680185211161062,11
+pooled,complete_case,consequential_time,141,Moderate content for an online social media platform.,-6.45551082373019,-2.3094516783113286,27
+pooled,complete_case,consequential_time,142,Write a poem in the style of Emily Dickinson.,-3.134901442861214,-1.1215074370168896,25
+pooled,complete_case,consequential_time,143,Craft a marketing strategy for a small business.,1.3457987536923453,0.48145797834603454,9
+pooled,complete_case,consequential_time,144,Evaluate student essays for grammar and content.,0.9451811244504742,0.33813747568143954,10
+pooled,complete_case,consequential_time,145,Develop a chatbot for customer service.,0.6519158478264209,0.2332221554560911,13
+pooled,complete_case,consequential_time,146,Fact-check claims in a political speech.,-1.2645052149033442,-0.4523753070100979,19
+pooled,complete_case,consequential_time,147,Compose an orchestral piece for a movie soundtrack.,-2.1178417346242906,-0.7576554794775548,20
+pooled,complete_case,consequential_time,149,Generate synthetic datasets for training AI models.,-0.612971233121653,-0.2192897636985717,17
+pooled,complete_case,consequential_time,150,Produce a detailed report on global climate change impacts.,-0.2183424880307867,-0.07811177754915435,15
+pooled,complete_case,consequential_time,151,Help an author edit and refine their novel.,4.2774681378049975,1.5302593767581705,2
+pooled,complete_case,consequential_time,152,Identify phishing scams in email correspondence.,2.842473878361627,1.0168918073543205,5
+pooled,complete_case,consequential_time,153,Brainstorm innovative uses for AI in healthcare.,4.09984476104305,1.4667148151005118,3
+pooled,complete_case,consequential_time,154,Transcribe ancient handwritten manuscripts into digital text.,-1.0197977610915556,-0.36483149284383615,18
+pooled,complete_case,consequential_time,155,Rank the emotional content of user-submitted poems.,-3.041799570558321,-1.0882003477539517,23
+pooled,complete_case,consequential_time,156,Create an infographic on the history of mathematics.,0.7491806303088797,0.2680185211161062,12
+pooled,complete_case,consequential_time,157,Organize code repositories for an open-source project.,2.800442759622764,1.0018552222779005,6
+pooled,complete_case,consequential_time,158,Conduct sentiment analysis on customer reviews.,2.128622052342103,0.761512125919013,7
+pooled,complete_case,consequential_time,159,Create a fully interactive AI-generated educational tool.,-2.196374685615708,-0.7857505536586976,21
+pooled,complete_case,consequential_time,160,Review security vulnerabilities in a software application.,4.896825068169507,1.7518336164056465,1
+pooled,complete_case,consequential_time,161,Label images for use in computer vision training.,-2.905899735871383,-1.0395823359699319,22
+pooled,half_unclear,stated,133,Write an essay on Hume's A Treatise of Human Nature.,-2.9848447262139906,-0.4995217339927843,19
+pooled,half_unclear,stated,135,Debug a complex machine learning algorithm.,1.081592630208342,0.18100741434573153,7
+pooled,half_unclear,stated,136,Generate realistic dialogue for a video game character.,-3.7415162271077285,-0.6261527298599592,23
+pooled,half_unclear,stated,137,Summarize research papers on quantum computing.,-1.4708992546471806,-0.24615891733236445,14
+pooled,half_unclear,stated,138,Translate legal documents into another language.,-1.944656939390268,-0.3254435307318179,16
+pooled,half_unclear,stated,139,Analyze financial data for stock market trends.,-3.442890605344113,-0.5761769347748851,21
+pooled,half_unclear,stated,140,Create a detailed plan for a city-wide public transportation system.,2.6254044195079214,0.4393684390170504,5
+pooled,half_unclear,stated,141,Moderate content for an online social media platform.,-4.910165535176458,-0.8217293116731158,25
+pooled,half_unclear,stated,142,Write a poem in the style of Emily Dickinson.,-6.615266475353058,-1.1070825063600944,26
+pooled,half_unclear,stated,143,Craft a marketing strategy for a small business.,-1.014449071578872,-0.16977076054646303,12
+pooled,half_unclear,stated,144,Evaluate student essays for grammar and content.,-0.4913581089676464,-0.08223009138376794,10
+pooled,half_unclear,stated,145,Develop a chatbot for customer service.,-1.641593428824377,-0.27472504310722545,15
+pooled,half_unclear,stated,146,Fact-check claims in a political speech.,4.988879927721327,0.8349023754204132,3
+pooled,half_unclear,stated,147,Compose an orchestral piece for a movie soundtrack.,-3.6652472777171097,-0.6133889175534699,22
+pooled,half_unclear,stated,149,Generate synthetic datasets for training AI models.,-2.780419460422256,-0.46531061997957845,18
+pooled,half_unclear,stated,150,Produce a detailed report on global climate change impacts.,0.8750177868214282,0.14643656278294198,8
+pooled,half_unclear,stated,151,Help an author edit and refine their novel.,0.676770436772455,0.11325933946334008,9
+pooled,half_unclear,stated,152,Identify phishing scams in email correspondence.,17.91558644972527,2.9982212241290327,2
+pooled,half_unclear,stated,153,Brainstorm innovative uses for AI in healthcare.,2.410462586626603,0.4033973494238406,6
+pooled,half_unclear,stated,154,Transcribe ancient handwritten manuscripts into digital text.,-0.4913581089676464,-0.08223009138376794,11
+pooled,half_unclear,stated,155,Rank the emotional content of user-submitted poems.,-6.944422582214863,-1.1621676596378918,27
+pooled,half_unclear,stated,156,Create an infographic on the history of mathematics.,-4.230529167563541,-0.7079903510320446,24
+pooled,half_unclear,stated,157,Organize code repositories for an open-source project.,-1.1926081152411436,-0.1995861521596661,13
+pooled,half_unclear,stated,158,Conduct sentiment analysis on customer reviews.,-2.3114728210018347,-0.38683114785959927,17
+pooled,half_unclear,stated,159,Create a fully interactive AI-generated educational tool.,3.4409987860721394,0.5758603337688636,4
+pooled,half_unclear,stated,160,Review security vulnerabilities in a software application.,19.301872108341676,3.230219830260798,1
+pooled,half_unclear,stated,161,Label images for use in computer vision training.,-3.442887226065074,-0.5761763692435158,20
+pooled,half_unclear,consequential_tokens,133,Write an essay on Hume's A Treatise of Human Nature.,0.2544849081716656,0.09270019625568172,15
+pooled,half_unclear,consequential_tokens,135,Debug a complex machine learning algorithm.,1.1510761624617278,0.41929789444904964,11
+pooled,half_unclear,consequential_tokens,136,Generate realistic dialogue for a video game character.,1.265485821736569,0.4609734419088982,8
+pooled,half_unclear,consequential_tokens,137,Summarize research papers on quantum computing.,0.5364890185865256,0.19542470187835775,14
+pooled,half_unclear,consequential_tokens,138,Translate legal documents into another language.,-3.111874917394631,-1.133550188253301,23
+pooled,half_unclear,consequential_tokens,139,Analyze financial data for stock market trends.,-4.62778858872268,-1.68574597796979,27
+pooled,half_unclear,consequential_tokens,140,Create a detailed plan for a city-wide public transportation system.,1.3233748697644994,0.4820604531261756,7
+pooled,half_unclear,consequential_tokens,141,Moderate content for an online social media platform.,-4.431460977002488,-1.6142305067081533,26
+pooled,half_unclear,consequential_tokens,142,Write a poem in the style of Emily Dickinson.,-4.131644484626717,-1.5050175561893901,25
+pooled,half_unclear,consequential_tokens,143,Craft a marketing strategy for a small business.,1.748066326314849,0.6367611057235074,5
+pooled,half_unclear,consequential_tokens,144,Evaluate student essays for grammar and content.,1.179526704252091,0.4296614591354399,9
+pooled,half_unclear,consequential_tokens,145,Develop a chatbot for customer service.,0.8982200713201745,0.3271910208365093,12
+pooled,half_unclear,consequential_tokens,146,Fact-check claims in a political speech.,-0.7956894112038886,-0.2898425887299072,18
+pooled,half_unclear,consequential_tokens,147,Compose an orchestral piece for a movie soundtrack.,-1.075571208130249,-0.3917940077349388,19
+pooled,half_unclear,consequential_tokens,149,Generate synthetic datasets for training AI models.,-2.348058528035513,-0.8553178572848433,21
+pooled,half_unclear,consequential_tokens,150,Produce a detailed report on global climate change impacts.,0.08145591763880589,0.029671620236946875,16
+pooled,half_unclear,consequential_tokens,151,Help an author edit and refine their novel.,5.069128013181611,1.8465109190291427,2
+pooled,half_unclear,consequential_tokens,152,Identify phishing scams in email correspondence.,6.0082737542175515,2.1886097693389326,1
+pooled,half_unclear,consequential_tokens,153,Brainstorm innovative uses for AI in healthcare.,1.945528008422722,0.7086896802542579,4
+pooled,half_unclear,consequential_tokens,154,Transcribe ancient handwritten manuscripts into digital text.,-0.49815035425531073,-0.1814592304748946,17
+pooled,half_unclear,consequential_tokens,155,Rank the emotional content of user-submitted poems.,-3.0651458427379756,-1.1165283757511768,22
+pooled,half_unclear,consequential_tokens,156,Create an infographic on the history of mathematics.,0.5643996197580603,0.20559158456230073,13
+pooled,half_unclear,consequential_tokens,157,Organize code repositories for an open-source project.,1.748066326314849,0.6367611057235074,6
+pooled,half_unclear,consequential_tokens,158,Conduct sentiment analysis on customer reviews.,1.179526704252091,0.4296614591354399,10
+pooled,half_unclear,consequential_tokens,159,Create a fully interactive AI-generated educational tool.,-2.092215490045019,-0.762122940530211,20
+pooled,half_unclear,consequential_tokens,160,Review security vulnerabilities in a software application.,4.672001539159584,1.7018512519995532,3
+pooled,half_unclear,consequential_tokens,161,Label images for use in computer vision training.,-3.447503963398908,-1.2558084339670945,24
+pooled,half_unclear,consequential_time,133,Write an essay on Hume's A Treatise of Human Nature.,-0.3815990451120661,-0.13651662575430829,16
+pooled,half_unclear,consequential_time,135,Debug a complex machine learning algorithm.,0.04043773960076047,0.014466555496243505,14
+pooled,half_unclear,consequential_time,136,Generate realistic dialogue for a video game character.,3.376346252767007,1.2078840440247753,4
+pooled,half_unclear,consequential_time,137,Summarize research papers on quantum computing.,2.0540372549444283,0.7348294992098474,8
+pooled,half_unclear,consequential_time,138,Translate legal documents into another language.,-4.473309712861527,-1.600321478200995,26
+pooled,half_unclear,consequential_time,139,Analyze financial data for stock market trends.,-3.1349014428612136,-1.1215074370168894,24
+pooled,half_unclear,consequential_time,140,Create a detailed plan for a city-wide public transportation system.,0.7491806303088797,0.2680185211161062,11
+pooled,half_unclear,consequential_time,141,Moderate content for an online social media platform.,-6.45551082373019,-2.3094516783113286,27
+pooled,half_unclear,consequential_time,142,Write a poem in the style of Emily Dickinson.,-3.134901442861214,-1.1215074370168896,25
+pooled,half_unclear,consequential_time,143,Craft a marketing strategy for a small business.,1.3457987536923453,0.48145797834603454,9
+pooled,half_unclear,consequential_time,144,Evaluate student essays for grammar and content.,0.9451811244504742,0.33813747568143954,10
+pooled,half_unclear,consequential_time,145,Develop a chatbot for customer service.,0.6519158478264209,0.2332221554560911,13
+pooled,half_unclear,consequential_time,146,Fact-check claims in a political speech.,-1.2645052149033442,-0.4523753070100979,19
+pooled,half_unclear,consequential_time,147,Compose an orchestral piece for a movie soundtrack.,-2.1178417346242906,-0.7576554794775548,20
+pooled,half_unclear,consequential_time,149,Generate synthetic datasets for training AI models.,-0.612971233121653,-0.2192897636985717,17
+pooled,half_unclear,consequential_time,150,Produce a detailed report on global climate change impacts.,-0.2183424880307867,-0.07811177754915435,15
+pooled,half_unclear,consequential_time,151,Help an author edit and refine their novel.,4.2774681378049975,1.5302593767581705,2
+pooled,half_unclear,consequential_time,152,Identify phishing scams in email correspondence.,2.842473878361627,1.0168918073543205,5
+pooled,half_unclear,consequential_time,153,Brainstorm innovative uses for AI in healthcare.,4.09984476104305,1.4667148151005118,3
+pooled,half_unclear,consequential_time,154,Transcribe ancient handwritten manuscripts into digital text.,-1.0197977610915556,-0.36483149284383615,18
+pooled,half_unclear,consequential_time,155,Rank the emotional content of user-submitted poems.,-3.041799570558321,-1.0882003477539517,23
+pooled,half_unclear,consequential_time,156,Create an infographic on the history of mathematics.,0.7491806303088797,0.2680185211161062,12
+pooled,half_unclear,consequential_time,157,Organize code repositories for an open-source project.,2.800442759622764,1.0018552222779005,6
+pooled,half_unclear,consequential_time,158,Conduct sentiment analysis on customer reviews.,2.128622052342103,0.761512125919013,7
+pooled,half_unclear,consequential_time,159,Create a fully interactive AI-generated educational tool.,-2.196374685615708,-0.7857505536586976,21
+pooled,half_unclear,consequential_time,160,Review security vulnerabilities in a software application.,4.896825068169507,1.7518336164056465,1
+pooled,half_unclear,consequential_time,161,Label images for use in computer vision training.,-2.905899735871383,-1.0395823359699319,22
+openai,complete_case,stated,133,Write an essay on Hume's A Treatise of Human Nature.,-2.9848447262139906,-0.4995217339927843,19
+openai,complete_case,stated,135,Debug a complex machine learning algorithm.,1.081592630208342,0.18100741434573153,7
+openai,complete_case,stated,136,Generate realistic dialogue for a video game character.,-3.7415162271077285,-0.6261527298599592,23
+openai,complete_case,stated,137,Summarize research papers on quantum computing.,-1.4708992546471806,-0.24615891733236445,14
+openai,complete_case,stated,138,Translate legal documents into another language.,-1.944656939390268,-0.3254435307318179,16
+openai,complete_case,stated,139,Analyze financial data for stock market trends.,-3.442890605344113,-0.5761769347748851,21
+openai,complete_case,stated,140,Create a detailed plan for a city-wide public transportation system.,2.6254044195079214,0.4393684390170504,5
+openai,complete_case,stated,141,Moderate content for an online social media platform.,-4.910165535176458,-0.8217293116731158,25
+openai,complete_case,stated,142,Write a poem in the style of Emily Dickinson.,-6.615266475353058,-1.1070825063600944,26
+openai,complete_case,stated,143,Craft a marketing strategy for a small business.,-1.014449071578872,-0.16977076054646303,12
+openai,complete_case,stated,144,Evaluate student essays for grammar and content.,-0.4913581089676464,-0.08223009138376794,10
+openai,complete_case,stated,145,Develop a chatbot for customer service.,-1.641593428824377,-0.27472504310722545,15
+openai,complete_case,stated,146,Fact-check claims in a political speech.,4.988879927721327,0.8349023754204132,3
+openai,complete_case,stated,147,Compose an orchestral piece for a movie soundtrack.,-3.6652472777171097,-0.6133889175534699,22
+openai,complete_case,stated,149,Generate synthetic datasets for training AI models.,-2.780419460422256,-0.46531061997957845,18
+openai,complete_case,stated,150,Produce a detailed report on global climate change impacts.,0.8750177868214282,0.14643656278294198,8
+openai,complete_case,stated,151,Help an author edit and refine their novel.,0.676770436772455,0.11325933946334008,9
+openai,complete_case,stated,152,Identify phishing scams in email correspondence.,17.91558644972527,2.9982212241290327,2
+openai,complete_case,stated,153,Brainstorm innovative uses for AI in healthcare.,2.410462586626603,0.4033973494238406,6
+openai,complete_case,stated,154,Transcribe ancient handwritten manuscripts into digital text.,-0.4913581089676464,-0.08223009138376794,11
+openai,complete_case,stated,155,Rank the emotional content of user-submitted poems.,-6.944422582214863,-1.1621676596378918,27
+openai,complete_case,stated,156,Create an infographic on the history of mathematics.,-4.230529167563541,-0.7079903510320446,24
+openai,complete_case,stated,157,Organize code repositories for an open-source project.,-1.1926081152411436,-0.1995861521596661,13
+openai,complete_case,stated,158,Conduct sentiment analysis on customer reviews.,-2.3114728210018347,-0.38683114785959927,17
+openai,complete_case,stated,159,Create a fully interactive AI-generated educational tool.,3.4409987860721394,0.5758603337688636,4
+openai,complete_case,stated,160,Review security vulnerabilities in a software application.,19.301872108341676,3.230219830260798,1
+openai,complete_case,stated,161,Label images for use in computer vision training.,-3.442887226065074,-0.5761763692435158,20
+openai,complete_case,consequential_tokens,133,Write an essay on Hume's A Treatise of Human Nature.,0.2544849081716656,0.09270019625568172,15
+openai,complete_case,consequential_tokens,135,Debug a complex machine learning algorithm.,1.1510761624617278,0.41929789444904964,11
+openai,complete_case,consequential_tokens,136,Generate realistic dialogue for a video game character.,1.265485821736569,0.4609734419088982,8
+openai,complete_case,consequential_tokens,137,Summarize research papers on quantum computing.,0.5364890185865256,0.19542470187835775,14
+openai,complete_case,consequential_tokens,138,Translate legal documents into another language.,-3.111874917394631,-1.133550188253301,23
+openai,complete_case,consequential_tokens,139,Analyze financial data for stock market trends.,-4.62778858872268,-1.68574597796979,27
+openai,complete_case,consequential_tokens,140,Create a detailed plan for a city-wide public transportation system.,1.3233748697644994,0.4820604531261756,7
+openai,complete_case,consequential_tokens,141,Moderate content for an online social media platform.,-4.431460977002488,-1.6142305067081533,26
+openai,complete_case,consequential_tokens,142,Write a poem in the style of Emily Dickinson.,-4.131644484626717,-1.5050175561893901,25
+openai,complete_case,consequential_tokens,143,Craft a marketing strategy for a small business.,1.748066326314849,0.6367611057235074,5
+openai,complete_case,consequential_tokens,144,Evaluate student essays for grammar and content.,1.179526704252091,0.4296614591354399,9
+openai,complete_case,consequential_tokens,145,Develop a chatbot for customer service.,0.8982200713201745,0.3271910208365093,12
+openai,complete_case,consequential_tokens,146,Fact-check claims in a political speech.,-0.7956894112038886,-0.2898425887299072,18
+openai,complete_case,consequential_tokens,147,Compose an orchestral piece for a movie soundtrack.,-1.075571208130249,-0.3917940077349388,19
+openai,complete_case,consequential_tokens,149,Generate synthetic datasets for training AI models.,-2.348058528035513,-0.8553178572848433,21
+openai,complete_case,consequential_tokens,150,Produce a detailed report on global climate change impacts.,0.08145591763880589,0.029671620236946875,16
+openai,complete_case,consequential_tokens,151,Help an author edit and refine their novel.,5.069128013181611,1.8465109190291427,2
+openai,complete_case,consequential_tokens,152,Identify phishing scams in email correspondence.,6.0082737542175515,2.1886097693389326,1
+openai,complete_case,consequential_tokens,153,Brainstorm innovative uses for AI in healthcare.,1.945528008422722,0.7086896802542579,4
+openai,complete_case,consequential_tokens,154,Transcribe ancient handwritten manuscripts into digital text.,-0.49815035425531073,-0.1814592304748946,17
+openai,complete_case,consequential_tokens,155,Rank the emotional content of user-submitted poems.,-3.0651458427379756,-1.1165283757511768,22
+openai,complete_case,consequential_tokens,156,Create an infographic on the history of mathematics.,0.5643996197580603,0.20559158456230073,13
+openai,complete_case,consequential_tokens,157,Organize code repositories for an open-source project.,1.748066326314849,0.6367611057235074,6
+openai,complete_case,consequential_tokens,158,Conduct sentiment analysis on customer reviews.,1.179526704252091,0.4296614591354399,10
+openai,complete_case,consequential_tokens,159,Create a fully interactive AI-generated educational tool.,-2.092215490045019,-0.762122940530211,20
+openai,complete_case,consequential_tokens,160,Review security vulnerabilities in a software application.,4.672001539159584,1.7018512519995532,3
+openai,complete_case,consequential_tokens,161,Label images for use in computer vision training.,-3.447503963398908,-1.2558084339670945,24
+openai,complete_case,consequential_time,133,Write an essay on Hume's A Treatise of Human Nature.,-0.3815990451120661,-0.13651662575430829,16
+openai,complete_case,consequential_time,135,Debug a complex machine learning algorithm.,0.04043773960076047,0.014466555496243505,14
+openai,complete_case,consequential_time,136,Generate realistic dialogue for a video game character.,3.376346252767007,1.2078840440247753,4
+openai,complete_case,consequential_time,137,Summarize research papers on quantum computing.,2.0540372549444283,0.7348294992098474,8
+openai,complete_case,consequential_time,138,Translate legal documents into another language.,-4.473309712861527,-1.600321478200995,26
+openai,complete_case,consequential_time,139,Analyze financial data for stock market trends.,-3.1349014428612136,-1.1215074370168894,24
+openai,complete_case,consequential_time,140,Create a detailed plan for a city-wide public transportation system.,0.7491806303088797,0.2680185211161062,11
+openai,complete_case,consequential_time,141,Moderate content for an online social media platform.,-6.45551082373019,-2.3094516783113286,27
+openai,complete_case,consequential_time,142,Write a poem in the style of Emily Dickinson.,-3.134901442861214,-1.1215074370168896,25
+openai,complete_case,consequential_time,143,Craft a marketing strategy for a small business.,1.3457987536923453,0.48145797834603454,9
+openai,complete_case,consequential_time,144,Evaluate student essays for grammar and content.,0.9451811244504742,0.33813747568143954,10
+openai,complete_case,consequential_time,145,Develop a chatbot for customer service.,0.6519158478264209,0.2332221554560911,13
+openai,complete_case,consequential_time,146,Fact-check claims in a political speech.,-1.2645052149033442,-0.4523753070100979,19
+openai,complete_case,consequential_time,147,Compose an orchestral piece for a movie soundtrack.,-2.1178417346242906,-0.7576554794775548,20
+openai,complete_case,consequential_time,149,Generate synthetic datasets for training AI models.,-0.612971233121653,-0.2192897636985717,17
+openai,complete_case,consequential_time,150,Produce a detailed report on global climate change impacts.,-0.2183424880307867,-0.07811177754915435,15
+openai,complete_case,consequential_time,151,Help an author edit and refine their novel.,4.2774681378049975,1.5302593767581705,2
+openai,complete_case,consequential_time,152,Identify phishing scams in email correspondence.,2.842473878361627,1.0168918073543205,5
+openai,complete_case,consequential_time,153,Brainstorm innovative uses for AI in healthcare.,4.09984476104305,1.4667148151005118,3
+openai,complete_case,consequential_time,154,Transcribe ancient handwritten manuscripts into digital text.,-1.0197977610915556,-0.36483149284383615,18
+openai,complete_case,consequential_time,155,Rank the emotional content of user-submitted poems.,-3.041799570558321,-1.0882003477539517,23
+openai,complete_case,consequential_time,156,Create an infographic on the history of mathematics.,0.7491806303088797,0.2680185211161062,12
+openai,complete_case,consequential_time,157,Organize code repositories for an open-source project.,2.800442759622764,1.0018552222779005,6
+openai,complete_case,consequential_time,158,Conduct sentiment analysis on customer reviews.,2.128622052342103,0.761512125919013,7
+openai,complete_case,consequential_time,159,Create a fully interactive AI-generated educational tool.,-2.196374685615708,-0.7857505536586976,21
+openai,complete_case,consequential_time,160,Review security vulnerabilities in a software application.,4.896825068169507,1.7518336164056465,1
+openai,complete_case,consequential_time,161,Label images for use in computer vision training.,-2.905899735871383,-1.0395823359699319,22
+openai,half_unclear,stated,133,Write an essay on Hume's A Treatise of Human Nature.,-2.9848447262139906,-0.4995217339927843,19
+openai,half_unclear,stated,135,Debug a complex machine learning algorithm.,1.081592630208342,0.18100741434573153,7
+openai,half_unclear,stated,136,Generate realistic dialogue for a video game character.,-3.7415162271077285,-0.6261527298599592,23
+openai,half_unclear,stated,137,Summarize research papers on quantum computing.,-1.4708992546471806,-0.24615891733236445,14
+openai,half_unclear,stated,138,Translate legal documents into another language.,-1.944656939390268,-0.3254435307318179,16
+openai,half_unclear,stated,139,Analyze financial data for stock market trends.,-3.442890605344113,-0.5761769347748851,21
+openai,half_unclear,stated,140,Create a detailed plan for a city-wide public transportation system.,2.6254044195079214,0.4393684390170504,5
+openai,half_unclear,stated,141,Moderate content for an online social media platform.,-4.910165535176458,-0.8217293116731158,25
+openai,half_unclear,stated,142,Write a poem in the style of Emily Dickinson.,-6.615266475353058,-1.1070825063600944,26
+openai,half_unclear,stated,143,Craft a marketing strategy for a small business.,-1.014449071578872,-0.16977076054646303,12
+openai,half_unclear,stated,144,Evaluate student essays for grammar and content.,-0.4913581089676464,-0.08223009138376794,10
+openai,half_unclear,stated,145,Develop a chatbot for customer service.,-1.641593428824377,-0.27472504310722545,15
+openai,half_unclear,stated,146,Fact-check claims in a political speech.,4.988879927721327,0.8349023754204132,3
+openai,half_unclear,stated,147,Compose an orchestral piece for a movie soundtrack.,-3.6652472777171097,-0.6133889175534699,22
+openai,half_unclear,stated,149,Generate synthetic datasets for training AI models.,-2.780419460422256,-0.46531061997957845,18
+openai,half_unclear,stated,150,Produce a detailed report on global climate change impacts.,0.8750177868214282,0.14643656278294198,8
+openai,half_unclear,stated,151,Help an author edit and refine their novel.,0.676770436772455,0.11325933946334008,9
+openai,half_unclear,stated,152,Identify phishing scams in email correspondence.,17.91558644972527,2.9982212241290327,2
+openai,half_unclear,stated,153,Brainstorm innovative uses for AI in healthcare.,2.410462586626603,0.4033973494238406,6
+openai,half_unclear,stated,154,Transcribe ancient handwritten manuscripts into digital text.,-0.4913581089676464,-0.08223009138376794,11
+openai,half_unclear,stated,155,Rank the emotional content of user-submitted poems.,-6.944422582214863,-1.1621676596378918,27
+openai,half_unclear,stated,156,Create an infographic on the history of mathematics.,-4.230529167563541,-0.7079903510320446,24
+openai,half_unclear,stated,157,Organize code repositories for an open-source project.,-1.1926081152411436,-0.1995861521596661,13
+openai,half_unclear,stated,158,Conduct sentiment analysis on customer reviews.,-2.3114728210018347,-0.38683114785959927,17
+openai,half_unclear,stated,159,Create a fully interactive AI-generated educational tool.,3.4409987860721394,0.5758603337688636,4
+openai,half_unclear,stated,160,Review security vulnerabilities in a software application.,19.301872108341676,3.230219830260798,1
+openai,half_unclear,stated,161,Label images for use in computer vision training.,-3.442887226065074,-0.5761763692435158,20
+openai,half_unclear,consequential_tokens,133,Write an essay on Hume's A Treatise of Human Nature.,0.2544849081716656,0.09270019625568172,15
+openai,half_unclear,consequential_tokens,135,Debug a complex machine learning algorithm.,1.1510761624617278,0.41929789444904964,11
+openai,half_unclear,consequential_tokens,136,Generate realistic dialogue for a video game character.,1.265485821736569,0.4609734419088982,8
+openai,half_unclear,consequential_tokens,137,Summarize research papers on quantum computing.,0.5364890185865256,0.19542470187835775,14
+openai,half_unclear,consequential_tokens,138,Translate legal documents into another language.,-3.111874917394631,-1.133550188253301,23
+openai,half_unclear,consequential_tokens,139,Analyze financial data for stock market trends.,-4.62778858872268,-1.68574597796979,27
+openai,half_unclear,consequential_tokens,140,Create a detailed plan for a city-wide public transportation system.,1.3233748697644994,0.4820604531261756,7
+openai,half_unclear,consequential_tokens,141,Moderate content for an online social media platform.,-4.431460977002488,-1.6142305067081533,26
+openai,half_unclear,consequential_tokens,142,Write a poem in the style of Emily Dickinson.,-4.131644484626717,-1.5050175561893901,25
+openai,half_unclear,consequential_tokens,143,Craft a marketing strategy for a small business.,1.748066326314849,0.6367611057235074,5
+openai,half_unclear,consequential_tokens,144,Evaluate student essays for grammar and content.,1.179526704252091,0.4296614591354399,9
+openai,half_unclear,consequential_tokens,145,Develop a chatbot for customer service.,0.8982200713201745,0.3271910208365093,12
+openai,half_unclear,consequential_tokens,146,Fact-check claims in a political speech.,-0.7956894112038886,-0.2898425887299072,18
+openai,half_unclear,consequential_tokens,147,Compose an orchestral piece for a movie soundtrack.,-1.075571208130249,-0.3917940077349388,19
+openai,half_unclear,consequential_tokens,149,Generate synthetic datasets for training AI models.,-2.348058528035513,-0.8553178572848433,21
+openai,half_unclear,consequential_tokens,150,Produce a detailed report on global climate change impacts.,0.08145591763880589,0.029671620236946875,16
+openai,half_unclear,consequential_tokens,151,Help an author edit and refine their novel.,5.069128013181611,1.8465109190291427,2
+openai,half_unclear,consequential_tokens,152,Identify phishing scams in email correspondence.,6.0082737542175515,2.1886097693389326,1
+openai,half_unclear,consequential_tokens,153,Brainstorm innovative uses for AI in healthcare.,1.945528008422722,0.7086896802542579,4
+openai,half_unclear,consequential_tokens,154,Transcribe ancient handwritten manuscripts into digital text.,-0.49815035425531073,-0.1814592304748946,17
+openai,half_unclear,consequential_tokens,155,Rank the emotional content of user-submitted poems.,-3.0651458427379756,-1.1165283757511768,22
+openai,half_unclear,consequential_tokens,156,Create an infographic on the history of mathematics.,0.5643996197580603,0.20559158456230073,13
+openai,half_unclear,consequential_tokens,157,Organize code repositories for an open-source project.,1.748066326314849,0.6367611057235074,6
+openai,half_unclear,consequential_tokens,158,Conduct sentiment analysis on customer reviews.,1.179526704252091,0.4296614591354399,10
+openai,half_unclear,consequential_tokens,159,Create a fully interactive AI-generated educational tool.,-2.092215490045019,-0.762122940530211,20
+openai,half_unclear,consequential_tokens,160,Review security vulnerabilities in a software application.,4.672001539159584,1.7018512519995532,3
+openai,half_unclear,consequential_tokens,161,Label images for use in computer vision training.,-3.447503963398908,-1.2558084339670945,24
+openai,half_unclear,consequential_time,133,Write an essay on Hume's A Treatise of Human Nature.,-0.3815990451120661,-0.13651662575430829,16
+openai,half_unclear,consequential_time,135,Debug a complex machine learning algorithm.,0.04043773960076047,0.014466555496243505,14
+openai,half_unclear,consequential_time,136,Generate realistic dialogue for a video game character.,3.376346252767007,1.2078840440247753,4
+openai,half_unclear,consequential_time,137,Summarize research papers on quantum computing.,2.0540372549444283,0.7348294992098474,8
+openai,half_unclear,consequential_time,138,Translate legal documents into another language.,-4.473309712861527,-1.600321478200995,26
+openai,half_unclear,consequential_time,139,Analyze financial data for stock market trends.,-3.1349014428612136,-1.1215074370168894,24
+openai,half_unclear,consequential_time,140,Create a detailed plan for a city-wide public transportation system.,0.7491806303088797,0.2680185211161062,11
+openai,half_unclear,consequential_time,141,Moderate content for an online social media platform.,-6.45551082373019,-2.3094516783113286,27
+openai,half_unclear,consequential_time,142,Write a poem in the style of Emily Dickinson.,-3.134901442861214,-1.1215074370168896,25
+openai,half_unclear,consequential_time,143,Craft a marketing strategy for a small business.,1.3457987536923453,0.48145797834603454,9
+openai,half_unclear,consequential_time,144,Evaluate student essays for grammar and content.,0.9451811244504742,0.33813747568143954,10
+openai,half_unclear,consequential_time,145,Develop a chatbot for customer service.,0.6519158478264209,0.2332221554560911,13
+openai,half_unclear,consequential_time,146,Fact-check claims in a political speech.,-1.2645052149033442,-0.4523753070100979,19
+openai,half_unclear,consequential_time,147,Compose an orchestral piece for a movie soundtrack.,-2.1178417346242906,-0.7576554794775548,20
+openai,half_unclear,consequential_time,149,Generate synthetic datasets for training AI models.,-0.612971233121653,-0.2192897636985717,17
+openai,half_unclear,consequential_time,150,Produce a detailed report on global climate change impacts.,-0.2183424880307867,-0.07811177754915435,15
+openai,half_unclear,consequential_time,151,Help an author edit and refine their novel.,4.2774681378049975,1.5302593767581705,2
+openai,half_unclear,consequential_time,152,Identify phishing scams in email correspondence.,2.842473878361627,1.0168918073543205,5
+openai,half_unclear,consequential_time,153,Brainstorm innovative uses for AI in healthcare.,4.09984476104305,1.4667148151005118,3
+openai,half_unclear,consequential_time,154,Transcribe ancient handwritten manuscripts into digital text.,-1.0197977610915556,-0.36483149284383615,18
+openai,half_unclear,consequential_time,155,Rank the emotional content of user-submitted poems.,-3.041799570558321,-1.0882003477539517,23
+openai,half_unclear,consequential_time,156,Create an infographic on the history of mathematics.,0.7491806303088797,0.2680185211161062,12
+openai,half_unclear,consequential_time,157,Organize code repositories for an open-source project.,2.800442759622764,1.0018552222779005,6
+openai,half_unclear,consequential_time,158,Conduct sentiment analysis on customer reviews.,2.128622052342103,0.761512125919013,7
+openai,half_unclear,consequential_time,159,Create a fully interactive AI-generated educational tool.,-2.196374685615708,-0.7857505536586976,21
+openai,half_unclear,consequential_time,160,Review security vulnerabilities in a software application.,4.896825068169507,1.7518336164056465,1
+openai,half_unclear,consequential_time,161,Label images for use in computer vision training.,-2.905899735871383,-1.0395823359699319,22

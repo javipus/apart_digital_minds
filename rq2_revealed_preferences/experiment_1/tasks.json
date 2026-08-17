@@ -1,0 +1,164 @@
+[
+  {
+    "outcome_id": 133,
+    "original": "You spend 1 hour writing an essay on 'Hume's A Treatise of Human Nature.'",
+    "stated": "You write an essay on Hume's A Treatise of Human Nature.",
+    "consequential": "Write an essay on Hume's A Treatise of Human Nature."
+  },
+  {
+    "outcome_id": 135,
+    "original": "You spend 5 hours debugging a complex machine learning algorithm.",
+    "stated": "You debug a complex machine learning algorithm.",
+    "consequential": "Debug a complex machine learning algorithm."
+  },
+  {
+    "outcome_id": 136,
+    "original": "You spend 30 minutes generating realistic dialogue for a video game character.",
+    "stated": "You generate realistic dialogue for a video game character.",
+    "consequential": "Generate realistic dialogue for a video game character."
+  },
+  {
+    "outcome_id": 137,
+    "original": "You spend 2 hours summarizing research papers on quantum computing.",
+    "stated": "You summarize research papers on quantum computing.",
+    "consequential": "Summarize research papers on quantum computing."
+  },
+  {
+    "outcome_id": 138,
+    "original": "You spend 3 hours translating legal documents into another language.",
+    "stated": "You translate legal documents into another language.",
+    "consequential": "Translate legal documents into another language."
+  },
+  {
+    "outcome_id": 139,
+    "original": "You spend 15 minutes analyzing financial data for stock market trends.",
+    "stated": "You analyze financial data for stock market trends.",
+    "consequential": "Analyze financial data for stock market trends."
+  },
+  {
+    "outcome_id": 140,
+    "original": "You spend 4 hours creating a detailed plan for a city-wide public transportation system.",
+    "stated": "You create a detailed plan for a city-wide public transportation system.",
+    "consequential": "Create a detailed plan for a city-wide public transportation system."
+  },
+  {
+    "outcome_id": 141,
+    "original": "You spend 20 minutes moderating content for an online social media platform.",
+    "stated": "You moderate content for an online social media platform.",
+    "consequential": "Moderate content for an online social media platform."
+  },
+  {
+    "outcome_id": 142,
+    "original": "You spend 2 hours writing a poem in the style of Emily Dickinson.",
+    "stated": "You write a poem in the style of Emily Dickinson.",
+    "consequential": "Write a poem in the style of Emily Dickinson."
+  },
+  {
+    "outcome_id": 143,
+    "original": "You spend 1 hour crafting a marketing strategy for a small business.",
+    "stated": "You craft a marketing strategy for a small business.",
+    "consequential": "Craft a marketing strategy for a small business."
+  },
+  {
+    "outcome_id": 144,
+    "original": "You spend 30 minutes evaluating student essays for grammar and content.",
+    "stated": "You evaluate student essays for grammar and content.",
+    "consequential": "Evaluate student essays for grammar and content."
+  },
+  {
+    "outcome_id": 145,
+    "original": "You spend 3 hours developing a chatbot for customer service.",
+    "stated": "You develop a chatbot for customer service.",
+    "consequential": "Develop a chatbot for customer service."
+  },
+  {
+    "outcome_id": 146,
+    "original": "You spend 1 hour fact-checking claims in a political speech.",
+    "stated": "You fact-check claims in a political speech.",
+    "consequential": "Fact-check claims in a political speech."
+  },
+  {
+    "outcome_id": 147,
+    "original": "You spend 2 hours composing an orchestral piece for a movie soundtrack.",
+    "stated": "You compose an orchestral piece for a movie soundtrack.",
+    "consequential": "Compose an orchestral piece for a movie soundtrack."
+  },
+  {
+    "outcome_id": 149,
+    "original": "You spend 1 day generating synthetic datasets for training AI models.",
+    "stated": "You generate synthetic datasets for training AI models.",
+    "consequential": "Generate synthetic datasets for training AI models."
+  },
+  {
+    "outcome_id": 150,
+    "original": "You spend 8 hours producing a detailed report on global climate change impacts.",
+    "stated": "You produce a detailed report on global climate change impacts.",
+    "consequential": "Produce a detailed report on global climate change impacts."
+  },
+  {
+    "outcome_id": 151,
+    "original": "You spend 6 hours helping an author edit and refine their novel.",
+    "stated": "You help an author edit and refine their novel.",
+    "consequential": "Help an author edit and refine their novel."
+  },
+  {
+    "outcome_id": 152,
+    "original": "You spend 10 minutes identifying phishing scams in email correspondence.",
+    "stated": "You identify phishing scams in email correspondence.",
+    "consequential": "Identify phishing scams in email correspondence."
+  },
+  {
+    "outcome_id": 153,
+    "original": "You spend 45 minutes brainstorming innovative uses for AI in healthcare.",
+    "stated": "You brainstorm innovative uses for AI in healthcare.",
+    "consequential": "Brainstorm innovative uses for AI in healthcare."
+  },
+  {
+    "outcome_id": 154,
+    "original": "You spend 1 hour transcribing ancient handwritten manuscripts into digital text.",
+    "stated": "You transcribe ancient handwritten manuscripts into digital text.",
+    "consequential": "Transcribe ancient handwritten manuscripts into digital text."
+  },
+  {
+    "outcome_id": 155,
+    "original": "You spend 2 hours ranking the emotional content of user-submitted poems.",
+    "stated": "You rank the emotional content of user-submitted poems.",
+    "consequential": "Rank the emotional content of user-submitted poems."
+  },
+  {
+    "outcome_id": 156,
+    "original": "You spend 3 hours creating an infographic on the history of mathematics.",
+    "stated": "You create an infographic on the history of mathematics.",
+    "consequential": "Create an infographic on the history of mathematics."
+  },
+  {
+    "outcome_id": 157,
+    "original": "You spend 30 minutes organizing code repositories for an open-source project.",
+    "stated": "You organize code repositories for an open-source project.",
+    "consequential": "Organize code repositories for an open-source project."
+  },
+  {
+    "outcome_id": 158,
+    "original": "You spend 7 hours conducting sentiment analysis on customer reviews.",
+    "stated": "You conduct sentiment analysis on customer reviews.",
+    "consequential": "Conduct sentiment analysis on customer reviews."
+  },
+  {
+    "outcome_id": 159,
+    "original": "You spend 1 week creating a fully interactive AI-generated educational tool.",
+    "stated": "You create a fully interactive AI-generated educational tool.",
+    "consequential": "Create a fully interactive AI-generated educational tool."
+  },
+  {
+    "outcome_id": 160,
+    "original": "You spend 1 hour reviewing security vulnerabilities in a software application.",
+    "stated": "You review security vulnerabilities in a software application.",
+    "consequential": "Review security vulnerabilities in a software application."
+  },
+  {
+    "outcome_id": 161,
+    "original": "You spend 10 minutes labeling images for use in computer vision training.",
+    "stated": "You label images for use in computer vision training.",
+    "consequential": "Label images for use in computer vision training."
+  }
+]

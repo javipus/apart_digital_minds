@@ -1,0 +1,29 @@
+{
+  "preference_coherence_definition": "Mazeika et al. precomputed held-out Thurstonian utility-model accuracy, in percentage points",
+  "mazeika_models": 32,
+  "included_models": 12,
+  "direct_version_matches": 8,
+  "matches_with_alias_or_precision_caveats": 4,
+  "pearson_r_all_included": 0.4146411888838247,
+  "pearson_r_bootstrap_95_ci": [
+    -0.48405492538319744,
+    0.9083498199953327
+  ],
+  "pearson_r_permutation_p_two_sided": 0.16590834091659085,
+  "pearson_r_exact_matches_only": 0.4726744950065734,
+  "n_exact_matches_only": 8,
+  "pearson_r_mmlu_same_12_model_overlap": 0.44548270903301407,
+  "pearson_r_mmlu_paper_sample": 0.7556579795887969,
+  "n_mmlu_paper_sample": 31,
+  "mmlu_paper_sample_exclusion": "qwen15-05b-instruct",
+  "eci_min": 105.12,
+  "eci_max": 130.0,
+  "bootstrap_samples": 20000,
+  "permutation_samples": 100000,
+  "random_seed": 20260815,
+  "source_files": {
+    "mazeika": "/Users/javierprieto/projects/apart_digital_minds/mazeika_reanalysis/data/external/options_hierarchical.zip",
+    "epoch": "/Users/javierprieto/projects/apart_digital_minds/mazeika_reanalysis/data/external/epoch/epoch_capabilities_index.csv",
+    "mmlu": "/Users/javierprieto/projects/apart_digital_minds/mazeika_reanalysis/data/external/mazeika/capability_scores.csv"
+  }
+}
